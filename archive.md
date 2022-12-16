@@ -25,7 +25,7 @@ meta-description: "RAIN Seminar Talk Archive"
   {% endif %}
   {% if talk.abstract %}
     <details>
-    <summary>Abstract</summary>
+    <summary>→ Abstract and Bio</summary>
     {{ talk.abstract }}
     
     {% if talk.bio %}
@@ -48,5 +48,5 @@ meta-description: "RAIN Seminar Talk Archive"
 {% endfor %}
 
 Current talks can be found [here](/).
-Further previous talks can be found [here](https://docs.google.com/document/d/1zcB4p_KLtC8FaKImf0VXysRf_edFAE9jBCluuVvU7Cg/edit?usp=sharing).
+Further previous talks and abstracts prior to 2020 can be found [here](https://docs.google.com/document/d/1zcB4p_KLtC8FaKImf0VXysRf_edFAE9jBCluuVvU7Cg/edit?usp=sharing).
 

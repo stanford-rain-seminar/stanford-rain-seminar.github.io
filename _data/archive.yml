@@ -166,8 +166,63 @@ Explanations are what he liked best."
       abstract: "We propose a new simulation-based estimation method, adversarial estimation, for structural models. The estimator is formulated as the solution to a minimax problem between a generator (which generates synthetic observations using the structural model) and a discriminator (which classifies if an observation is synthetic). The discriminator maximizes the accuracy of its classification while the generator minimizes it. We show that, with a sufficiently rich discriminator, the adversarial estimator attains parametric efficiency under correct specification and the parametric rate under misspecification. We advocate the use of a neural network as a discriminator that can exploit adaptivity properties and attain fast rates of convergence. We apply our method to the elderly’s saving decision model and show that including gender and health profiles in the discriminator uncovers the bequest motive as an important source of saving across the wealth distribution, not only for the rich."
       bio: 
 
-
-
+- type: 2019-2020
+  members:
+    - speaker: Shane Henderson
+      date: Oct. 2, 2019
+      title: "Under the Hood of Bike Sharing"
+    - speaker: Suleyman Kerimov (first half)
+      date: Oct. 16, 2019
+      title: "Scrip Systems with Minimal Availability"
+    - speaker: Nikhil Garg (second half)
+      date: Oct. 16, 2019
+      title: "Driver Surge Pricing"
+    - speaker: Rupert Freeman
+      date: Oct. 30, 2019
+      title: "Truthful Aggregation of Budget Proposals"
+    - speaker: Aleksandra Korolova
+      date: Nov. 13, 2019
+      title: "Societal Concerns in Targeted Advertising"
+    - speaker: Ali Aouad (OR Seminar)
+      date: Nov. 20, 2019
+      title: "Click-Based MNL: Algorithmic Frameworks for Modeling Click Data in Assortment Optimization"
+    - speaker: Peng Shi
+      date: Dec. 4, 2019
+      title: "Optimal Priority-Based Allocation Mechanisms"
+    - speaker: Matt Weinberg
+      date: Jan. 15, 2020
+      title: "(a biased selection of) Recent Developments in Combinatorial Auctions"
+    - speaker: Sham Kakade (OR Seminar)
+      date: Jan. 22, 2020
+      title: "Representation, Modeling, and Optimization in Reinforcement Learning"
+    - speaker: Warren Powell (OR Seminar)
+      date: Jan. 29, 2020
+      title: "From Reinforcement Learning to Stochastic Optimization: A Universal Framework for Sequential Decision Analytics"
+    - speaker: Haris Aziz
+      date: Feb. 5, 2020
+      title: "Fair and Efficient Allocation of Indivisible Goods and Chores"
+    - speaker: Avi Mandelbaum (OR Seminar)
+      date: Feb. 12, 2020
+      title: "\"Theompirical\" Research of Service Systems"
+    - speaker: Edward McFowland III
+      date: Feb. 19, 2020
+      title: "Estimating Causal Peer Influence in Homophilous Social Networks by Inferring Latent Locations"
+    - speaker: Benjamin Plaut (first half)
+      date: Feb. 26, 2020
+      title: "Beyond the First Welfare Theorem: Counteracting Inequality in Markets"
+    - speaker: Faidra Monachou (second half)
+      date: Feb. 26, 2020
+      title: "Discrimination in Online Markets: Effects of Social Bias on Learning from Reviews and Policy Design"
+    - speaker: Kent Quanrud (OR Seminar)
+      date: Mar. 11, 2020
+      title: "TBA"
+    - speaker: Sandra Gonzalez-Bailon
+      date: Apr. 8, 2020
+      title: "TBA"
+    - speaker: Chris Musco (OR Seminar)
+      date: May 20, 2020
+      title: "TBA"
+ 
 
 
     - speaker: 
