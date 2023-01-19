@@ -5,6 +5,11 @@
       title: "Algorithmic Game Theory Meets Behavioral Economics"
       abstract: "A recent line of work brings together Algorithmic Game Theory and Behavioral Economics. One approach taken in this line of work is to enrich well-studied settings in Algorithmic Game Theory by considering players that exhibit cognitive biases. In this talk, we will discuss two papers demonstrating this approach in two very different settings. The first paper extends the analysis of classic optimal stopping problems by considering agents that have loss aversion relative to a changing reference point and analyzes their behavior. The second paper relies on the literature on lying in behavioral economics and psychology to tackle one of the foundations of Algorithmic Mechanism Design: truthfulness. Based on joint works with Shahar Dobzinski, Bobby Kleinberg and Jon Kleinberg"
       bio: "Sigal Oren is an associate professor at the Computer Science department of Ben-Gurion University. She is currently on Sabbatical at Stanford as a Koret fellow. Sigal's research area is algorithmic game theory. She is currently interested in combining behavioral economics and algorithmic game theory."
+    - speaker: Dan Larremore
+      date: Feb. 8, 2023
+      title: TBD
+      abstract: TBD
+      bio: 
     - speaker: Rad Niazadeh
       date: Feb. 15, 2023
       title: TBD
