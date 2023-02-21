@@ -1,10 +1,5 @@
 - type: Upcoming Talks
   members:
-    - speaker: Nika Haghtalab
-      date: Feb. 22, 2023
-      title: TBD
-      abstract: TBD
-      bio: 
     - speaker: Dave Holtz
       date: Mar. 8, 2023
       title: TBD
@@ -26,6 +21,11 @@ Joint work with Fredrik Sävje and Yitan Wang."
       bio: 
     - speaker: Dhruv Madeka
       date: TBD
+      title: TBD
+      abstract: TBD
+      bio: 
+    - speaker: Nika Haghtalab
+      date: TBD 
       title: TBD
       abstract: TBD
       bio: 
