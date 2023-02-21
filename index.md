@@ -57,7 +57,7 @@ Previous talks can be found [here](/archive).
 
 # About The Seminar
 
-**Seminar Organizers:** [Itai Ashlagi](http://www.stanford.edu/~iashlagi), [Grace Guan](https://guanzgrace.github.io/), [Mohak Goyal](https://sites.google.com/view/mohakg/home).
+**Seminar Organizers:** [Itai Ashlagi](http://www.stanford.edu/~iashlagi), [Mohak Goyal](https://sites.google.com/view/mohakg/home).
 
 **Faculty Involved:** [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ashish Goel](https://web.stanford.edu/~ashishg/), [Ramesh Johari](http://www.stanford.edu/~rjohari/), [Amin Saberi](https://web.stanford.edu/~saberi/), [Aaron Sidford](https://web.stanford.edu/~sidford/), [Johan Ugander](https://web.stanford.edu/~jugander/), [Irene Lo](https://sites.google.com/view/irene-lo), [Ellen Vitercik](https://vitercik.github.io/)
 
