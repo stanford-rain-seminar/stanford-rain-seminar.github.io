@@ -16,9 +16,9 @@ Joint work with Fredrik Sävje and Yitan Wang."
       bio: "Christopher Harshaw is a FODSI postdoctoral fellow hosted jointly between UC Berkeley and MIT. He obtained his PhD in Computer Science from Yale University, where he was advised by Daniel Spielman and Amin Karbasi. His research addresses theoretical aspects of causal inference and data science, particularly algorithmic and statistical problems arising in the design and analysis of randomized experiments."
     - speaker: Dhruv Madeka
       date: Apr. 12, 2023
-      title: TBD
-      abstract: TBD
-      bio: 
+      title: "Deep Reinforcement Learning for Real-World Inventory Management"
+      abstract: "We present a Deep Reinforcement Learning approach to solving a periodic review inventory control system with stochastic vendor lead times, lost sales, correlated demand, and price matching. While this dynamic program has historically been considered intractable, we show that several policy learning approaches are competitive with or outperform classical baseline approaches. In order to train these algorithms, we develop novel techniques to convert historical data into a simulator and present a collection of results that motivate this approach. We also present a model-based reinforcement learning procedure (Direct Backprop) to solve the dynamic periodic review inventory control problem by constructing a differentiable simulator. Under a variety of metrics Direct Backprop outperforms model-free RL and newsvendor baselines, in both simulations and real-world deployments."
+      bio: "Dhruv is a Principal Machine Learning Scientist at Amazon. His current research focuses on applying Deep Reinforcement Learning to supply chain problems. Dhruv has also worked on developing generative and supervised deep learning models for probabilistic time series forecasting. In the past - Dhruv worked in the Quantitative Research team at Bloomberg LP, contributing to the open source Python and Jupyter community."
     - speaker: Yuri Faenza
       date: May 17, 2023
       title: TBD
