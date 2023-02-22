@@ -14,13 +14,18 @@ In this talk, I will present a new design-based experimental framework for formu
 
 Joint work with Fredrik Sävje and Yitan Wang."
       bio: "Christopher Harshaw is a FODSI postdoctoral fellow hosted jointly between UC Berkeley and MIT. He obtained his PhD in Computer Science from Yale University, where he was advised by Daniel Spielman and Amin Karbasi. His research addresses theoretical aspects of causal inference and data science, particularly algorithmic and statistical problems arising in the design and analysis of randomized experiments."
-    - speaker: Suresh Venkatasubramanian
-      date: May 24, 2023
+    - speaker: Dhruv Madeka
+      date: Apr. 12, 2023
       title: TBD
       abstract: TBD
       bio: 
-    - speaker: Dhruv Madeka
-      date: TBD
+    - speaker: Yuri Faenza
+      date: May 17, 2023
+      title: TBD
+      abstract: TBD
+      bio: 
+    - speaker: Suresh Venkatasubramanian
+      date: May 24, 2023
       title: TBD
       abstract: TBD
       bio: 
