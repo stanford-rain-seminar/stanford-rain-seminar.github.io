@@ -1,6 +1,6 @@
 - type: Upcoming Talks
   members:
-   - speaker: Chris Harshaw
+    - speaker: Chris Harshaw
       date: Apr. 5, 2023
       title: "A New Design-Based Framework for Randomized Experiments and the Riesz Estimator"
       abstract: "Randomized experiments are widely used for investigating causal quantities in a variety of settings, from clinical trials and public policy evaluations to development economics and product development. A standard assumption in designing and analyzing such experiments is that of “no-interference”, which states that a participant’s outcome is only affected by their individual treatment and not by the treatments given to other participants in the experiment. Although standard, this assumption does not hold in many experimental settings, e.g. studies of the effect of vaccines where disease may spread between the participants or cash transfer programs where participants may affect local economies containing other participants. 
@@ -92,7 +92,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3613755"
       bio: "Rad Niazadeh is an Assistant Professor of Operations Management at The University of Chicago Booth School of Business. He is also part of the faculty at Toyota Technological Institute of Chicago (TTIC) by a courtesy appointment. Prior to joining Chicago Booth, he was a visiting researcher at Google Research NYC and a postdoctoral fellow at Stanford University, Computer Science Department. He finished his PhD in Computer Science (minored in Applied Mathematics) at Cornell University. Rad primarily studies the interplay between algorithms, incentives, and learning in real-time operations of online marketplaces and e-commerce platforms. His research aims to build theoretical methodologies and generic frameworks to design faster and economically efficient market algorithms, and also to help with addressing humanitarian needs (such as equity, fairness, and non-discrimination) in operations of governmental agencies and non-profit organizations. 
 https://faculty.chicagobooth.edu/rad-niazadeh" 
     
- - speaker: Nika Haghtalab
+    - speaker: Nika Haghtalab
       date: Mar. 15, 2023 
       title: "Multi-objective learning: A unifying framework for robustness, fairness, and collaboration"
       abstract: "Social and real-world considerations such as robustness, fairness, social welfare, and multi-agent tradeoffs have given rise to multi-objective learning paradigms. In recent years, these paradigms have been studied by several disconnected communities and under different names, including collaborative learning, distributional robustness, group fairness, and fair federated learning. In this talk, I will highlight the importance of multi-objective learning paradigms in general, introduce technical tools for addressing them from a simple unifying perspective, and discuss how these problems relate to classical and modern consideration in data-driven processes."
