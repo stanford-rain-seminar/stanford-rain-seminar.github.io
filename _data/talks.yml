@@ -15,6 +15,11 @@
       title: "Online Learning and Bandits with Queried Hints"
       abstract: "We consider the classic online learning and stochastic multi-armed bandit (MAB) problems, when at each step, the online policy can probe and obtain advice about which of a small number (k) of choices has better reward (or loss) before making its choice. In this model, we derive algorithms whose regret bounds have  exponentially better dependence on the time horizon compared to the classic regret bounds. In particular, we show that probing with k=2 suffices to achieve time-independent regret bounds for online linear and convex optimization. For stochastic MAB with independent arms, we show that the same number of probes improves the dependence of regret on the horizon length T from O(sqrt T) to O(log T). For stochastic MAB, we also consider a stronger model where a probe reveals the reward values of the probed arms, and show that in this case, k=3 probes suffice to achieve parameter-independent constant regret.  Such regret bounds cannot be achieved even with full feedback after the play, showcasing the power of limited 'advice' via probing before making the play. We also present extensions to the  setting where such advice can be imperfect. Joint work with Aditya Bhaskara (Utah), Sreenivas Gollapudi (Google), Sungjin Im (UC Merced), and Kostas Kollias (Google)."
       bio: "Kamesh Munagala is Professor of Computer Science at Duke University.  He is broadly interested in algorithm design, particularly approximation and online algorithms, algorithmic fairness, and algorithmic game theory.  He obtained his Ph.D. (2003) and M.S. (2002) from Stanford University, and B.Tech. (1998) from IIT Bombay. He is an ACM Distinguished Scientist (2019); a recipient of the NSF CAREER Award (2008) and the Alfred P. Sloan Fellowship (2009); and is a co-author on the best papers at the WINE 2018 and WWW 2009 conferences. He was a Visiting Research Professor at Twitter in 2012, served as the Director of Graduate Studies for Duke CS from 2012 to 2015, and currently serves as its Associate Chair."
+    - speaker: Chara Podimata
+      date: May 3, 2023
+      title: TBD
+      abstract: TBD
+      bio: 
     - speaker: Dave Holtz
       date: May 10, 2023
       title: "Reducing Interference Bias in Online Marketplace Experiments using Cluster Randomization: Evidence from a Pricing Meta-Experiment on Airbnb"
@@ -27,6 +32,11 @@
       bio: 
     - speaker: Suresh Venkatasubramanian
       date: May 24, 2023
+      title: TBD
+      abstract: TBD
+      bio: 
+    - speaker: Kuang Xu
+      date: June 7, 2023
       title: TBD
       abstract: TBD
       bio: 
