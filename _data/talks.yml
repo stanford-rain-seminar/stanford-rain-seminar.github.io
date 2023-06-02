@@ -1,18 +1,18 @@
 - type: Upcoming Talks
   members:
+     - speaker: Kuang Xu
+      date: June 7, 2023
+      title: "Non-Stationary Bandit Learning via Predictive Sampling"
+      abstract: "Thompson sampling has proven effective across a wide range of stationary bandit environments. However, as we demonstrate in this paper, it can perform poorly when applied to non-stationary environments. We show that such failures are attributed to the fact that, when exploring, the algorithm does not differentiate actions based on how quickly the information acquired loses its usefulness due to non-stationarity. Building upon this insight, we propose predictive sampling, an algorithm that deprioritizes acquiring information that quickly loses usefulness. Theoretical guarantee on the performance of predictive sampling is established through a Bayesian regret bound. We provide versions of predictive sampling for which computations tractably scale to complex bandit environments of practical interest. Through numerical simulations, we demonstrate that predictive sampling outperforms Thompson sampling in all non-stationary environments examined. Joint work with Yueyang Liu and Benjamin Van Roy (MS&E, Stanford University). "
+      bio: "Kuang Xu is an Associate Professor at the Stanford Graduate School of Business. His research focuses on principles for decision-making in a stochastic system, with applications to operations, experimentation and logistics. He has received a First Place in the INFORMS George E. Nicholson Student Paper Competition, a Best Paper Award as well as Outstanding Student Paper Award at ACM SIGMETRICS, and an ACM SIGMETRICS Rising Star Research Award. He currently serves as an Associate Editor for Operations Research and Management Science. Outside of academia, he has consulted as the chief data science advisor for Shipt and as a senior advisor for Uber. "
+
+- type: Previous Talks This Year
+  members:
     - speaker: Benjamin Brooks
       date: May 31, 2023
       title: "Robust Mechanisms for the Financing of Public Goods"
       abstract: "We propose a novel proportional cost-sharing mechanism for funding public goods with interdependent values: the agents simultaneously submit bids, which are nonnegative numbers; the expenditure on the public good is an increasing and concave function of the sum of the bids; and each agent is responsible for the fraction of the expenditure proportional to their bid. The proportional cost-sharing mechanism provides a non-trivial guarantee for social welfare, regardless of the structure of the agents’ information and the equilibrium that is played, as long as the social value for the public good is sufficiently large. Moreover, this guarantee is shown to be unimprovable in environments where the designer knows a lower bound on the social value. The guarantee converges to the entire efficient surplus when the social value grows large. When there are two agents, our model can be reinterpreted as one of bilateral trade, and the proportional cost-sharing is reinterpreted as proportional pricing."
       bio: "Benjamin Brooks is an Associate Professor in the Department of Economics at the University of Chicago. He studies various aspects of economic theory, including games of incomplete information, auction theory and mechanism design, and repeated games."
-    - speaker: Kuang Xu
-      date: June 7, 2023
-      title: TBD
-      abstract: TBD
-      bio: 
-
-- type: Previous Talks This Year
-  members:
     - speaker: Diyi Yang
       date: Oct. 12, 2022
       title: "More Civility and Positivity for Socially Responsible Language Understanding"
