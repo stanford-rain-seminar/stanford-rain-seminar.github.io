@@ -1,6 +1,40 @@
 - type: Upcoming Talks
   members:
-    
+    - speaker: Elaine Shi
+      date: Sept. 29, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"
+    - speaker: Vijay Vazirani
+      date: Oct. 9, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"
+    - speaker: Emre Kiciman
+      date: Oct. 23, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA" 
+    - speaker: Jason Hartline
+      date: Oct. 30, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"
+    - speaker: Robert Kleinberg
+      date: Nov. 6, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"   
+    - speaker: Bruno Ribeiro
+      date: Nov. 13, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"
+    - speaker: Suchi Chawla
+      date: Dec. 4, 2023
+      title: "TBA"
+      abstract: "TBA"
+      bio: "TBA"
 - type: Previous Talks This Year
   members:
     
