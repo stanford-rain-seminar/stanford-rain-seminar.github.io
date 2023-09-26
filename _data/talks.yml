@@ -4,11 +4,21 @@
       date: Sept. 29, 2023
       title: "Decentralized Mechanism Design"
       abstract: "In transaction fee mechanism design, users bid to get their transactions confirmed in the block. Classical auctions completely fail in such a decentralized environment where even the auctioneer (i.e., miners) can be a strategic player. Further, the miners can collude with a subset of the users, e.g., facilitated by real-world platforms like Flashbots. A line of works have attempted to devise a 'dream' transaction fee mechanism but all have failed. In this talk, I will first show that this is not a coincidence --- in fact, there is a fundamental mathematical barrier towards achieving a 'dream' transaction fee mechanism. Then, I will explain how to overcome impossibilities with the help of cryptography, leading to practical mechanisms that achieve good social welfare and revenue."
-      bio: "TBA"
+      bio: "Elaine Shi is an Associate Professor at Carnegie Mellon University. Prior to joining CMU, she taught at Cornell and the University of Maryland. Her research interests include cryptography, security, algorithms, mechanism design, and foundations of blockchains. She has won numerous awards such as the Sloan Fellowship, the Packard Fellowship, the ONR YIP award, the NSA Best Science of Cybersecurity Paper award, Cylab Distinguished Alumni Award, and various other best paper awards. Her work on Oblivious RAM and privacy-preserving algorithms have been deployed at a large scale by companies like Signal, Google, and JP Morgan."
     - speaker: Vijay Vazirani
       date: Oct. 9, 2023
-      title: "TBA"
-      abstract: "TBA"
+      title: "LP-Duality and the Cores of Games"
+      abstract: "Even though LP-duality has played a central role in the study of the core, right from its early days to the present time,
+basic gaps still remain. I will summarise three papers which address these gaps:
+
+Paper 1 [https://arxiv.org/pdf/2302.07627.pdf] defines new matching-based games, with important applications, and characterizes their cores.
+It also gives efficient algorithms for computing core imputations with enhanced fairness properties: 
+min-max fair, max-min fair and equitable core imputations.
+
+Paper 2 [https://arxiv.org/pdf/2302.00608.pdf]  extends the scope of the notion of core beyond profit --- equivalently cost or utility --- sharing. 
+The game in this paper is not a cooperative game, it is a game against nature.
+
+Paper 3 [https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub]  rectifies the fact that the general graph matching game has an empty core by giving the notion of 2/3-approximate core."
       bio: "TBA"
     - speaker: Emre Kiciman
       date: Oct. 23, 2023
