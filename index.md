@@ -34,7 +34,17 @@ The Internet is a complex network made of both machines and people, and hence, p
     <details>
     <summary>→ Abstract and Bio</summary>
     {{ talk.abstract }}
-    
+    Even though LP-duality has played a central role in the study of the core, right from its early days to the present time,
+basic gaps still remain. I will summarise three papers which address these gaps:
+
+Paper 1 [https://arxiv.org/pdf/2302.07627.pdf](https://arxiv.org/pdf/2302.07627.pdf) defines new matching-based games, with important applications, and characterizes their cores.
+It also gives efficient algorithms for computing core imputations with enhanced fairness properties: 
+min-max fair, max-min fair and equitable core imputations.
+
+Paper 2 <a href=https://arxiv.org/pdf/2302.00608.pdf>https://arxiv.org/pdf/2302.00608.pdf</a> extends the scope of the notion of core beyond profit --- equivalently cost or utility --- sharing. 
+The game in this paper is not a cooperative game, it is a game against nature.
+
+Paper 3 [https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub)  rectifies the fact that the general graph matching game has an empty core by giving the notion of 2/3-approximate core.
     {% if talk.bio %}
     <br><br>
     <strong>Bio: </strong> {{ talk.bio }}
