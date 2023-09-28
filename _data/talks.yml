@@ -8,17 +8,7 @@
     - speaker: Vijay Vazirani
       date: Oct. 9, 2023
       title: LP-Duality and the Cores of Games Test
-      abstract: Even though LP-duality has played a central role in the study of the core, right from its early days to the present time,
-basic gaps still remain. I will summarise three papers which address these gaps:
-
-Paper 1 [https://arxiv.org/pdf/2302.07627.pdf](https://arxiv.org/pdf/2302.07627.pdf) defines new matching-based games, with important applications, and characterizes their cores.
-It also gives efficient algorithms for computing core imputations with enhanced fairness properties: 
-min-max fair, max-min fair and equitable core imputations.
-
-Paper 2 [https://arxiv.org/pdf/2302.00608.pdf](https://arxiv.org/pdf/2302.00608.pdf)  extends the scope of the notion of core beyond profit --- equivalently cost or utility --- sharing. 
-The game in this paper is not a cooperative game, it is a game against nature.
-
-Paper 3 [https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub)  rectifies the fact that the general graph matching game has an empty core by giving the notion of 2/3-approximate core.
+      abstract: Even though LP-duality has played a central role in the study of the core, right from its early days to the present time, basic gaps still remain. I will summarise three papers which address these gaps: Paper 1 [https://arxiv.org/pdf/2302.07627.pdf](https://arxiv.org/pdf/2302.07627.pdf) defines
       bio: "Vijay Vazirani got his undergraduate degree from MIT in 1979 and his PhD from the University of California, Berkeley in 1983. He is currently a Distinguished Professor at the University of California, Irvine. Vazirani has made fundamental contributions to several areas of the theory of algorithms, including algorithmic matching theory, approximation algorithms and algorithmic game theory, as well as to complexity theory, in which he established, with Les Valiant, the hardness of unique solution instances of NP-complete problems. Over the last four years, he has been working on algorithms for matching markets. He is one of the founders of algorithmic game theory. In 2001 he published Approximation Algorithms, which is widely regarded as the definitive book on the topic. In 2007, he published the co-edited book Algorithmic Game Theory. Another co-edited book, Online and Matching-Based Market Design, was published by Cambridge University Press in 2022; see its flyer: https://www.ics.uci.edu/~vazirani/flyer.pdf"
     - speaker: Emre Kiciman
       date: Oct. 23, 2023
