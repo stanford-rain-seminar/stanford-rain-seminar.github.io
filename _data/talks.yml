@@ -7,8 +7,8 @@
       bio: "Elaine Shi is an Associate Professor at Carnegie Mellon University. Prior to joining CMU, she taught at Cornell and the University of Maryland. Her research interests include cryptography, security, algorithms, mechanism design, and foundations of blockchains. She has won numerous awards such as the Sloan Fellowship, the Packard Fellowship, the ONR YIP award, the NSA Best Science of Cybersecurity Paper award, Cylab Distinguished Alumni Award, and various other best paper awards. Her work on Oblivious RAM and privacy-preserving algorithms have been deployed at a large scale by companies like Signal, Google, and JP Morgan."
     - speaker: Vijay Vazirani
       date: Oct. 9, 2023
-      title: "LP-Duality and the Cores of Games"
-      abstract: "Test Even though LP-duality has played a central role in the study of the core, right from its early days to the present time,
+      title: LP-Duality and the Cores of Games Test
+      abstract: "Even though LP-duality has played a central role in the study of the core, right from its early days to the present time,
 basic gaps still remain. I will summarise three papers which address these gaps:
 
 Paper 1 [https://arxiv.org/pdf/2302.07627.pdf](https://arxiv.org/pdf/2302.07627.pdf) defines new matching-based games, with important applications, and characterizes their cores.
