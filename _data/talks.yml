@@ -15,7 +15,7 @@ Paper 1 [https://arxiv.org/pdf/2302.07627.pdf](https://arxiv.org/pdf/2302.07627.
 It also gives efficient algorithms for computing core imputations with enhanced fairness properties: 
 min-max fair, max-min fair and equitable core imputations.
 
-Paper 2 <a href="https://arxiv.org/pdf/2302.00608.pdf">https://arxiv.org/pdf/2302.00608.pdf</a> extends the scope of the notion of core beyond profit --- equivalently cost or utility --- sharing. 
+Paper 2 <a href="https://arxiv.org/pdf/2302.00608.pdf">https://arxiv.org/pdf/2302.00608.pdf</a> test extends the scope of the notion of core beyond profit --- equivalently cost or utility --- sharing. 
 The game in this paper is not a cooperative game, it is a game against nature.
 
 Paper 3 [https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0899825622000239?via%3Dihub)  rectifies the fact that the general graph matching game has an empty core by giving the notion of 2/3-approximate core."
