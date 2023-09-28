@@ -10,7 +10,22 @@ The Internet is a complex network made of both machines and people, and hence, p
 
 * Our talks for the Autumn 2023 quarter are on Mondays 4 PM PT in Y2E2 299!
   (Except for the first talk on 9/29, which is at 2pm in Y2E2 101)
-* To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)! 
+* To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)!
+
+<div class="talk-list">
+  <div class="talk list-group-item">
+  <div class="talk-date">{{ Sept. 29, 2023 }}</div>
+  <div class="talk-presenter">{{ Elaine Shi }}</div>
+  <div>
+      <span>{{ Decentralized Mechanism Design }}</span>
+  </div>
+    <details>
+    <summary>→ Abstract and Bio</summary>
+    {{ In transaction fee mechanism design, users bid to get their transactions confirmed in the block. Classical auctions completely fail in such a decentralized environment where even the auctioneer (i.e., miners) can be a strategic player. Further, the miners can collude with a subset of the users, e.g., facilitated by real-world platforms like Flashbots. A line of works have attempted to devise a 'dream' transaction fee mechanism but all have failed. In this talk, I will first show that this is not a coincidence --- in fact, there is a fundamental mathematical barrier towards achieving a 'dream' transaction fee mechanism. Then, I will explain how to overcome impossibilities with the help of cryptography, leading to practical mechanisms that achieve good social welfare and revenue. }}
+    <br><br>
+    <strong>Bio: </strong> {{ Elaine Shi is an Associate Professor at Carnegie Mellon University. Prior to joining CMU, she taught at Cornell and the University of Maryland. Her research interests include cryptography, security, algorithms, mechanism design, and foundations of blockchains. She has won numerous awards such as the Sloan Fellowship, the Packard Fellowship, the ONR YIP award, the NSA Best Science of Cybersecurity Paper award, Cylab Distinguished Alumni Award, and various other best paper awards. Her work on Oblivious RAM and privacy-preserving algorithms have been deployed at a large scale by companies like Signal, Google, and JP Morgan. }}
+  </div>
+</div>
 
 {% for category in site.data.talks %}
 # {{ category.type }}
