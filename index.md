@@ -10,9 +10,7 @@ The Internet is a complex network made of both machines and people, and hence, p
 
 * Our talks for the Autumn 2023 quarter are on Mondays 4 PM PT in Y2E2 299!
   (Except for the first talk on 9/29, which is at 2pm in Y2E2 101)
-* To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)!
-
-
+* To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)! 
 
 {% for category in site.data.talks %}
 # {{ category.type }}
@@ -36,6 +34,7 @@ The Internet is a complex network made of both machines and people, and hence, p
     <details>
     <summary>→ Abstract and Bio</summary>
     {{ talk.abstract }}
+    
     {% if talk.bio %}
     <br><br>
     <strong>Bio: </strong> {{ talk.bio }}
@@ -68,4 +67,3 @@ Previous talks can be found [here](/archive).
 
 
 Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu).
-
