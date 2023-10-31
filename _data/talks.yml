@@ -7,7 +7,7 @@
 
 Motivated by this, we present a new metric for evaluating forecasts that we call U-calibration, equal to the maximal regret of the sequence of forecasts when evaluated under any bounded scoring rule. We show that sublinear U-calibration error is a necessary and sufficient condition for all agents to achieve sublinear regret guarantees. We additionally demonstrate how to compute the U-calibration error efficiently and provide an online algorithm that achieves asymptotically optimal U-calibration error (on par with optimal rates for optimizing for a single scoring rule, and bypassing lower bounds for the traditionally calibrated learning procedures). Finally, we discuss generalizations to the multiclass prediction setting.
 
-This talk is joint work with Renato Paes Leme, Jon Schneider, and Yifeng Teng."
+This talk is joint work with Renato Paes Leme, Jon Schneider, and Yifeng Teng.
       bio: "Bobby Kleinberg is a Professor of Computer Science at Cornell University and a part-time Faculty Researcher at Google. His research concerns algorithms and their applications to machine learning, economics, networking, and other areas. Prior to receiving his doctorate from MIT in 2005, Kleinberg spent three years at Akamai Technologies; he and his co-workers received the 2018 SIGCOMM Networking Systems Award for pioneering the first Internet content delivery network. He is a Fellow of the ACM and a recipient of the ACM SIGecom Mid-Career Award for advancing the understanding of on-line learning and decision problems and their application to mechanism design.
     - speaker: Bruno Ribeiro
       date: Nov. 13, 2023
