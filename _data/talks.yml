@@ -1,17 +1,5 @@
 - type: Upcoming Talks
   members:
-    - speaker: Shuchi Chawla
-      date: Dec. 4, 2023
-      title: "Revisiting revenue maximization for many buyers: buy-many mechanisms and sequential posted pricing"
-      abstract: "A recent line of research has established a novel desideratum for designing approximately-revenue-optimal multi-item mechanisms, namely the buy-many constraint. Under this constraint, prices for different allocations made by the mechanism must be subadditive implying that the price of a bundle cannot exceed the sum of prices of individual items it contains. This natural constraint has enabled several positive results in multi-item mechanism design bypassing well-established impossibility results.
-
-
-Our work addresses a main open question from this literature involving the design of buy-many mechanisms for multiple buyers. We show that a simple sequential item pricing mechanism with buyer-specific prices can achieve an O(log m) approximation to the revenue of any buy-many mechanism when all buyers have unit-demand preferences over m items. This is the best approximation possible as it directly matches the previous results for the single-buyer setting where no simple mechanism can obtain a better approximation. En route to proving this result we define and prove a multi-dimensional online contention resolution scheme (OCRS) for revenue.
-
- 
-
-This is joint work with Rojin Rezvan (UT-Austin), Yifeng Teng (Google Research), and Christos Tzamos (UW-Madison)."
-      bio: "Shuchi Chawla holds an Endowed Professorship in Computer Science at UT-Austin and is an Amazon Scholar. Shuchi is a theoretical computer scientist specializing in the areas of algorithm design and economics and computation. Prior to joining UT-Austin, she spent 15 years as a professor of CS at the University of Wisconsin-Madison. Shuchi is the recipient of an NSF Career award, a Sloan Foundation fellowship, and several awards for her research and teaching at UW-Madison. Shuchi recently served as the PC Chair of SODA'20 and EC'21, and currently serves on the editorial boards of the SIAM Journal of Computing, the ACM Transactions on Algorithms and the ACM Transactions on Economics and Computation."
 - type: Previous Talks This Year
   members:
     - speaker: Elaine Shi
@@ -48,4 +36,16 @@ This is joint work with Rojin Rezvan (UT-Austin), Yifeng Teng (Google Research),
       title: "Causal Lifting and Causal Identification in Link Prediction using Neural Networks"
       abstract: "In this talk, we consider a small piece of the larger puzzle of endowing state-of-the-art neural networks with the ability to perform causal reasoning. First, we will cover the rich literature on causal identification under peer effects, both under intrinsic factors and path-dependent graph evolution models. Then, I will introduce “Causal Lifting”, which generalizes the earlier causal identification methods for both nodes and edges under network effects, also unveiling a fundamental difference between estimating causal effects on nodes from effects on edges. Finally, we will explore how Causal Lifting aligns causal identification seamlessly with how we design state-of-the-art neural network models for relational reasoning tasks, which can then be integrated with chatbots such as ChatGPT."
       bio: "Bruno Ribeiro is an Associate Professor in the Department of Computer Science at Purdue University, currently a Visiting Associate Professor at Stanford University. Prior to joining Purdue in 2015, he earned his Ph.D. from the University of Massachusetts Amherst and was a postdoctoral fellow at Carnegie Mellon University. Ribeiro is interested in the intersection between relational learning and causality in deep learning. Ribeiro received an NSF CAREER award in 2020, an Amazon Research Award in 2022, and multiple best paper awards."
-    
+    - speaker: Shuchi Chawla
+      date: Dec. 4, 2023
+      title: "Revisiting revenue maximization for many buyers: buy-many mechanisms and sequential posted pricing"
+      abstract: "A recent line of research has established a novel desideratum for designing approximately-revenue-optimal multi-item mechanisms, namely the buy-many constraint. Under this constraint, prices for different allocations made by the mechanism must be subadditive implying that the price of a bundle cannot exceed the sum of prices of individual items it contains. This natural constraint has enabled several positive results in multi-item mechanism design bypassing well-established impossibility results.
+
+
+Our work addresses a main open question from this literature involving the design of buy-many mechanisms for multiple buyers. We show that a simple sequential item pricing mechanism with buyer-specific prices can achieve an O(log m) approximation to the revenue of any buy-many mechanism when all buyers have unit-demand preferences over m items. This is the best approximation possible as it directly matches the previous results for the single-buyer setting where no simple mechanism can obtain a better approximation. En route to proving this result we define and prove a multi-dimensional online contention resolution scheme (OCRS) for revenue.
+
+ 
+
+This is joint work with Rojin Rezvan (UT-Austin), Yifeng Teng (Google Research), and Christos Tzamos (UW-Madison)."
+      bio: "Shuchi Chawla holds an Endowed Professorship in Computer Science at UT-Austin and is an Amazon Scholar. Shuchi is a theoretical computer scientist specializing in the areas of algorithm design and economics and computation. Prior to joining UT-Austin, she spent 15 years as a professor of CS at the University of Wisconsin-Madison. Shuchi is the recipient of an NSF Career award, a Sloan Foundation fellowship, and several awards for her research and teaching at UW-Madison. Shuchi recently served as the PC Chair of SODA'20 and EC'21, and currently serves on the editorial boards of the SIAM Journal of Computing, the ACM Transactions on Algorithms and the ACM Transactions on Economics and Computation."
+
