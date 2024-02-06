@@ -1,10 +1,31 @@
 - type: Upcoming Talks
   members:
-    - speaker: Grant Schoenebeck
-      date: Dec. 11, 2023
-      title: "Mechanisms To Procure Information Without Verification"
-      abstract: "In a wide variety of contexts including peer grading, peer review, and crowd-sourcing (e.g. evaluating LLM outputs) we would like to design mechanisms which reward agents for producing high quality responses. Unfortunately, computing rewards by comparing to ground truth or gold standard is often cumbersome, costly, or impossible. Instead we would like to compare agent reports. First, we will argue the importance of creating measurements of agent response quality that are both accurate and strategy-proof (agents do not benefit by intentionally falsely reporting).  Second, we will illustrate that previous solutions only achieve one of these desiderata: naïve mechanisms fail to be strategy-proof, yet existing strategy-proof mechanisms are much less accurate than the naïve mechanisms in evaluating response quality. Third, we will show how to create mechanisms that are both strategy-proof and (reasonably) accurate.  The key theoretical technique is a variational interpretation of mutual information, which permits machine learning to estimate mutual information using only a few samples (and likely has other applications in machine learning even beyond the strategic settings). Finally, time permitting, we will survey future directions for the field. "
-      bio: "Grant Schoenebeck is an associate professor at the University of Michigan in the school of information.  His work spans diverse areas in theoretical computer science but has recently focused on combining ideas from theoretical computer science, machine learning, and economics (e.g game theory, mechanism design, and information design) to develop and analyze systems for eliciting and aggregating information from of diverse group of agents with varying information, interests, and abilities. His research is supported by the NSF including an NSF CAREER award.  Before coming to the University of Michigan in 2012, he was a Postdoctoral Research Fellow at Princeton. Grant received his PhD at UC Berkeley, studied theology at Oxford University, and received his BA in mathematics and computer science from Harvard."
+    - speaker: Yuqing Kong
+      date: Feb. 12, 2024
+      title: "Eliciting Information Without Verification from Humans and Machines"
+      abstract: "Many application domains rely on eliciting high-quality (subjective) information. This presentation will talk about how to elicit and aggregate information from both human and machine participants, especially when the information cannot be directly verified. The first part of the talk presents a mechanism, DMI-Mechanism, designed to incentivize truth-telling in the setting where participants are assigned multiple multi-choice questions (e.g. what’s the quality of the above content? High/Low). DMI-Mechanism ensures that truthful responses are more rewarding than any less informative strategy. The implementation of DMI-Mechanism is straightforward, requiring no verification or prior knowledge, and involves only two participants and four questions for binary-choice scenarios. When applied to machine learning, DMI-Mechanism results in a loss function that is invariant to label noise. The second part of the talk discusses the elicitation of information not just from humans but also from machines. Recognizing the limitations in time and resources that humans and machines have, the talk introduces a method to elicit and analyze the 'thinking hierarchy' of both entities. This approach not only facilitates the aggregation of information when the majority of agents are at less sophisticated 'thinking' levels but also provides a unique way to compare humans and machines. This talk is based a series of works including Kong (SODA 2020, ITCS 2022, JACM 2024), Xu, Cao, Kong, Wang (NeurIPS 2019), Kong, Li, Zhang, Huang, Wu (NeurIPS 2022), Huang, Mei, Kong (2024). "
+      bio: "Yuqing Kong is currently an assistant professor at The Center of Frontier Computing Science (CFCS), Peking University. She obtained her Ph.D. degree from the Computer Science and Engineering Department at University of Michigan in 2018 and her bachelor degree in mathematics from University of Science and Technology of China in 2013. Her research interests lie in the intersection of theoretical computer science and the areas of economics: information elicitation, prediction markets, mechanism design, and the future applications of these areas to crowdsourcing and machine learning."
+    - speaker: Kirthevasan Kandasamy 
+      date: Feb. 19, 2024
+      title: "TBD"
+      abstract: "TBD"
+      bio: "Kirthevasan Kandasamy is an assistant professor in the Department of Computer Sciences at the University of Wisconsin-Madison, working on topics in machine learning. His research interests are in the intersection of decision-making under uncertainty and game theory with applications in computer systems. He was a postdoctoral scholar at the RISE Lab at the University of California, Berkeley working with Ion Stoica, Mike Jordan, and Joey Gonzalez. He completed his PhD in Machine Learning at Carnegie Mellon University, where he was co-advised by Jeff Schneider and Barnabas Poczos. His PhD was supported by a Facebook fellowship (2017/18), a Siebel scholarship (2017/18), and a CMU Presidential fellowship (2015/16). Prior to CMU, he completed his B.Sc in Electronics & Telecommunications Engineering at the University of Moratuwa, Sri Lanka."
+    - speaker: Panos Toulis 
+      date: Feb. 26, 2024
+      title: "TBD"
+      abstract: "TBD"
+      bio: "TBD"
+    - speaker: Sophie Yu
+      date: Mar. 4, 2024
+      title: "TBD"
+      abstract: "TBD"
+      bio: "TBD"
+    - speaker: Nicole Immorlica 
+      date: Mar. 11, 2024
+      title: "TBD"
+      abstract: "TBD"
+      bio: "TBD"
+      
 - type: Previous Talks This Year
   members:
     - speaker: Elaine Shi
@@ -45,6 +66,11 @@
       date: Dec. 4, 2023
       title: "Revisiting revenue maximization for many buyers: buy-many mechanisms and sequential posted pricing"
       abstract: "A recent line of research has established a novel desideratum for designing approximately-revenue-optimal multi-item mechanisms, namely the buy-many constraint. Under this constraint, prices for different allocations made by the mechanism must be subadditive implying that the price of a bundle cannot exceed the sum of prices of individual items it contains. This natural constraint has enabled several positive results in multi-item mechanism design bypassing well-established impossibility results.
+    - speaker: Grant Schoenebeck
+      date: Dec. 11, 2023
+      title: "Mechanisms To Procure Information Without Verification"
+      abstract: "In a wide variety of contexts including peer grading, peer review, and crowd-sourcing (e.g. evaluating LLM outputs) we would like to design mechanisms which reward agents for producing high quality responses. Unfortunately, computing rewards by comparing to ground truth or gold standard is often cumbersome, costly, or impossible. Instead we would like to compare agent reports. First, we will argue the importance of creating measurements of agent response quality that are both accurate and strategy-proof (agents do not benefit by intentionally falsely reporting).  Second, we will illustrate that previous solutions only achieve one of these desiderata: naïve mechanisms fail to be strategy-proof, yet existing strategy-proof mechanisms are much less accurate than the naïve mechanisms in evaluating response quality. Third, we will show how to create mechanisms that are both strategy-proof and (reasonably) accurate.  The key theoretical technique is a variational interpretation of mutual information, which permits machine learning to estimate mutual information using only a few samples (and likely has other applications in machine learning even beyond the strategic settings). Finally, time permitting, we will survey future directions for the field. "
+      bio: "Grant Schoenebeck is an associate professor at the University of Michigan in the school of information.  His work spans diverse areas in theoretical computer science but has recently focused on combining ideas from theoretical computer science, machine learning, and economics (e.g game theory, mechanism design, and information design) to develop and analyze systems for eliciting and aggregating information from of diverse group of agents with varying information, interests, and abilities. His research is supported by the NSF including an NSF CAREER award.  Before coming to the University of Michigan in 2012, he was a Postdoctoral Research Fellow at Princeton. Grant received his PhD at UC Berkeley, studied theology at Oxford University, and received his BA in mathematics and computer science from Harvard."
 
 
 Our work addresses a main open question from this literature involving the design of buy-many mechanisms for multiple buyers. We show that a simple sequential item pricing mechanism with buyer-specific prices can achieve an O(log m) approximation to the revenue of any buy-many mechanism when all buyers have unit-demand preferences over m items. This is the best approximation possible as it directly matches the previous results for the single-buyer setting where no simple mechanism can obtain a better approximation. En route to proving this result we define and prove a multi-dimensional online contention resolution scheme (OCRS) for revenue.
