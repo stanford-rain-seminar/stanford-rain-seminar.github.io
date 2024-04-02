@@ -10,8 +10,13 @@
       title: "The Computer in the Sky"
       abstract: "Turing-complete blockchain protocols approximate the idealized abstraction of a computer in the sky that is open access, runs in plain view, and, in effect, has no owner or operator. This technology can, among other things, enable stronger notions of ownership of digital possessions than we have ever had before. Building the computer in the sky is hard (and scientifically fascinating), and in this talk I'll highlight three threads in my recent research on this challenge: Possibility and impossibility results for permissionless consensus protocols (i.e., implementing an “ownerless” computer). Incentive-compatible transaction fee mechanism design (i.e., making an “open-access” computer sustainable and welfare-maximizing). A Black-Scholes-type formula for quantifying adverse selection in automated market makers (some of the most popular 'programs' running on the computer in the sky). The talk will emphasize the diversity of mathematical tools necessary for understanding blockchain protocols and their applications (e.g., distributed computing, game theory, mechanism design, and continuous-time stochastic processes) and the immediate practical impact that mathematical work on this topic has had (e.g., Ethereum's EIP-1559 and LVR for automated market makers)."
       bio: "Tim Roughgarden is a Professor in the Computer Science Department at Columbia University and the Founding Head of Research at a16z crypto. Prior to joining Columbia, he spent 15 years on the computer science faculty at Stanford, following a PhD at Cornell and a postdoc at UC Berkeley. His research interests include the many connections between computer science and economics, as well as the design, analysis, applications, and limitations of algorithms. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Kalai Prize in Computer Science and Game Theory, the Social Choice and Welfare Prize, the Mathematical Programming Society's Tucker Prize, the INFORMS Lanchester Prize, and the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 International Congress of Mathematicians and the Shapley Lecturer at the 2008 World Congress of the Game Theory Society. He is a Fellow of the Guggenheim Foundation, the ACM, the Game Theory Society, and the Society for the Advancement of Economic Theory. He has written or edited ten books and monographs, including Twenty Lectures on Algorithmic Game Theory (2016), Beyond the Worst-Case Analysis of Algorithms (2020), and the Algorithms Illuminated book series (2017-2020)."
-    - speaker: Kirthevasan Kandasamy <kandasamy@cs.wisc.edu>
+    - speaker: Kirthevasan Kandasamy 
       date: Apr. 15, 2024
+      title: ""
+      abstract: ""
+      bio: ""
+    - speaker: Sophie Yu
+      date: Apr. 22, 2024
       title: ""
       abstract: ""
       bio: ""
