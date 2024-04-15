@@ -5,6 +5,12 @@
       title: "Constant Regret Primal-Dual Policy for Multi-Way Dynamic Matching"
       abstract: "We study a discrete-time dynamic multi-way matching model. There are finitely many agent types that arrive stochastically and wait to be matched. State-of-the-art dynamic matching policies in the literature require the knowledge of all system parameters to determine an optimal basis of the fluid relaxation, and focus on controlling the number of waiting agents using only matches within the optimal basis (Kerimov et al., 2021a,b; Gupta, 2021). In this paper, we propose a primal-dual policy that schedule matches for future arrivals based on an estimator for the dual solution. Our policy does not require the knowledge of the arrival rates and operates with greater flexibility as it does not restrict matches to only the match types within an optimal basis. We show that our policy is first to achieve constant regret at all times under unknown arrival rates, and when the arrival rates are known, it achieves the optimal scaling as the lower-bound described in Kerimov et al. (2021a,b). Furthermore, when the arrival rates are known, the primal-dual policy significantly outperforms alternative dynamic matching policies in several numerical simulations. Here is the paper link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4357216"
       bio: "Sophie Yu a Postdoctoral Scholar under Prof. Itai Ashlagi and Prof. Amin Saberi, at Management Science and Engineering, Stanford University. She will join the Wharton School of Business as an assistant professor of Operations, Information and Decisions, starting in summer of 2024. She received her Ph.D. in Decision Sciences from the Fuqua School of Business at Duke University, under Prof. Jiaming Xu and Prof. Yehua Wei. Her research interests focus on data analysis, algorithm design, and performance evaluation in large-scale networks and stochastic systems."
+    - speaker: Omar Besbes
+      date: Apr. 29, 2024
+      title: "TBD"
+      abstract: "TBD"
+      bio: "TBD"
+
    
 - type: Previous Talks This Year
   members:
