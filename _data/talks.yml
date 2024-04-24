@@ -2,9 +2,11 @@
   members:
     - speaker: Omar Besbes
       date: Apr. 29, 2024
-      title: "TBD"
-      abstract: "TBD"
-      bio: "TBD"
+      title: "A Journey Through Robust Auction Design"
+      abstract: "Auctions are widely used in practice. While also extensively studied in the literature, most of the developments rely on significant assumptions regarding the knowledge of the players. In this work, we consider the setting in which the distribution of values is unknown. We study the design of optimal prior-independent auctions, exploring how the seller should incorporate partial information. We consider various forms of partial information, including distributional classes, correlation structures, support, and potentially market research data. We present general results that yield optimal or near-optimal robust auctions across a range of settings. These results also allow, e.g., to quantify the value of partial information or to uncover novel robust auction formats."
+      bio: "Omar Besbes is the Vikram S. Pandit Professor of Business at Columbia University, where he is a member of the Decision, Risk & Operations division in the Graduate School of Business. He is also a member of the Data Science Institute. 
+His primary research interests are in the area of data-driven decision-making with a focus on applications in digital markets. His research has been recognized by multiple prizes including the 2019 Frederick W. Lanchester Prize, the 2017 M&SOM society Young Scholar Prize, the 2013 M&SOM best paper award and the 2012 INFORMS Revenue Management and Pricing Section prize. He serves on the editorial boards of Management Science and Operations Research. 
+Omar is a graduate of Ecole Polytechnique (France) and received a M.Sc. in Aero/Astro from Stanford University and a Ph.D. from Columbia University. Before joining Columbia, he was on the faculty at the Wharton School, University of Pennsylvania. "
 
    
 - type: Previous Talks This Year
