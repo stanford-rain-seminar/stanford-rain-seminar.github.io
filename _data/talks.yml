@@ -1,5 +1,10 @@
 - type: Upcoming Talks
   members:
+   - speaker: Ben Golub
+     date: May 20, 2024
+     title: "Robust Interventions in Markets"
+     abstract: "A platform hosts many imperfectly competitive sellers that compete in prices. A policymaker has noisy information about the parameters (e.g., demand) in the market. We define a frequentist notion of robust interventions—ones achieving improvements in platform revenue or total surplus with high probability, uniformly over unknown market conditions. We characterize when it is and is not possible to robustly mitigate inefficiencies in differentiated oligopoly. A key tool is a set of spectral methods for studying price and welfare pass-throughs in a market with rich strategic spillovers, which permit the use of statistical results on matrix completion. Joint work with Andrea Galeotti, Sanjeev Goyal, Eduard Talamàs, and Omer Tamuz."
+     bio: "Ben Golub is a Professor of Economics and (by courtesy) Computer Science at Northwestern. His research focuses on the theory of social and economic networks, including the dynamics of learning and influence, targeting interventions for behavior change, and systemic risk and fragility in financial and production systems. He is interested in methods from probability theory, including random graphs and percolation, as well as the foundations and statistics of network centrality measures. He received the Calvó Armengol Prize International Prize in Economics and is a Fellow of the Econometric Society."
    - speaker: Brendan Lucier
      date: June 3, 2024
      title: TBD
