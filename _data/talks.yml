@@ -3,8 +3,8 @@
    - speaker: Brendan Lucier
      date: June 3, 2024
      title: "Certification Design for a Competitive Market"
-     abstract: "We consider a market for products with varying but hidden levels of quality.  A third-party certifier can provide informative signals about the quality of products and can charge for this service.  The certifier designs the set of offered certificates and their prices; sellers choose both the quality of the product they produce and a certification. The products are then sold in a competitive market. Under a single-crossing condition, we show that the levels of certification chosen by sellers are uniquely determined at equilibrium, and that the certifier’s problem is equivalent to a screening problem with non-linear valuations. Certification objectives to maximize gains from trade, quantity traded, and certification revenue are in general incompatible. We prove that optimal menus for these and other objectives satisfy a monotonicity property, show how they can be interpreted as maximizing a modified virtual welfare, and provide a FPTAS for their computation. We discuss how to interpret our results and their policy implications in the motivating example of markets for carbon offsets and removal activities.  This is joint work with Andreas Haupt and Nicole Immorlica."
-     bio: "Brendan Lucier is a Senior Principal Researcher at Microsoft Research in the economics and computation group.  He is a graduate of the University of Waterloo and received his PhD in Computer Science from the University of Toronto.  His research seeks to understand how the algorithms embedded in online platforms and other sociotechnical systems influence user behavior.  He specializes in the impact of algorithmic choices and interfaces in market design, with an emphasis on simplicity and robustness.  His research is motivated by applications such as digital advertising, matching markets, and markets for sustainability."
+     abstract: "We consider a market for products with varying but hidden levels of quality.  A third-party certifier can provide informative signals about the quality of products and can charge for this service.  The certifier designs the set of offered certificates and their prices; sellers choose both the quality of the product they produce and a certification. The products are then sold in a competitive market. Under a single-crossing condition, we show that the levels of certification chosen by sellers are uniquely determined at equilibrium, and that the certifier's problem is equivalent to a screening problem with non-linear valuations. Certification objectives to maximize gains from trade, quantity traded, and certification revenue are in general incompatible. We prove that optimal menus for these and other objectives satisfy a monotonicity property, show how they can be interpreted as maximizing a modified virtual welfare, and provide a FPTAS for their computation. We discuss how to interpret our results and their policy implications in the motivating example of markets for carbon offsets and removal activities.  This is joint work with Andreas Haupt and Nicole Immorlica."
+     bio: "Brendan Lucier is a Senior Principal Researcher at Microsoft Research in the economics and computation group. He is a graduate of the University of Waterloo and received his PhD in Computer Science from the University of Toronto.  His research seeks to understand how the algorithms embedded in online platforms and other sociotechnical systems influence user behavior. He specializes in the impact of algorithmic choices and interfaces in market design, with an emphasis on simplicity and robustness.  His research is motivated by applications such as digital advertising, matching markets, and markets for sustainability."
    - speaker: Paul Golz
      date: June 10, 2024
      title: "Generative Social Choice"
@@ -14,8 +14,7 @@
      date: June 24, 2024
      title: TBD
      abstract: TBD
-     bio: TBD
-     
+     bio: TBD     
 - type: Previous Talks This Year
   members:
     - speaker: Elaine Shi
