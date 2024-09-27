@@ -1,6 +1,22 @@
 - type: Upcoming Talks
   members:
-   
+    - speaker: 
+      date: 
+      title:
+      bio:
+    - speaker:
+      date:
+      title:
+      bio:
+    - speaker:
+      date:
+      title:
+      bio:
+    - speaker:
+      date:
+      title:
+      bio:
+      
 - type: Previous Talks This Year
   members:
     - speaker: Elaine Shi
