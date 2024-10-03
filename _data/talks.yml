@@ -1,10 +1,10 @@
 - type: Upcoming Talks
   members:
-    - speaker: Vinay Rao and Deep Ganguli
+    - speaker: Vinay Rao
       date: Oct. 7, 2024
-      title: TBD
-      abstract: TBD
-      bio: TBD
+      title: "Deployment Safeguards for AI Models"
+      abstract: ""
+      bio: "Vinay Rao leads Anthropic's Trust and Safety team, which develops and enforces policies governing Claude's real-world applications. His team focuses on mitigating catastrophic risks as well as critical risks such as election interference, child safety, and misinformation. They also play a key role in securing Anthropic's models to comply with the company's Responsible Scaling Policy for safe and ethical AI development and deployment. With nearly two decades of experience in trust and safety, Vinay has built and managed leading Trust and Safety functions at major tech companies, including YouTube, Google, Airbnb, and Stripe."
     - speaker: Weijie Su
       date: Oct. 21, 2024
       title: TBD
