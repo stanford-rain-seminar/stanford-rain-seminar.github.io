@@ -1,27 +1,22 @@
 - type: Upcoming Talks
   members:
-    - speaker: Vinay Rao
-      date: Oct. 7, 2024
-      title: "Deployment Safeguards for AI Models"
-      abstract: ""
-      bio: "Vinay Rao leads Anthropic's Trust and Safety team, which develops and enforces policies governing Claude's real-world applications. His team focuses on mitigating catastrophic risks as well as critical risks such as election interference, child safety, and misinformation. They also play a key role in securing Anthropic's models to comply with the company's Responsible Scaling Policy for safe and ethical AI development and deployment. With nearly two decades of experience in trust and safety, Vinay has built and managed leading Trust and Safety functions at major tech companies, including YouTube, Google, Airbnb, and Stripe."
-    - speaker: Amy Greenwald
-      date: Oct. 28, 2024
-      title: "Solving Games Forwards and Backwards"
-      abstract: "Computing equilibria in games is a problem of great interest in both economics and computer science. We present a min-max formulation of this problem, in which the minimizer seeks an equilibrium solution for the game, while the maximizer seeks to find fault with the proposed solutions. We call this problem the 'forward' problem. In the 'backwards' problem, we are instead given an equilibrium and a parameterized game, and we are interested in inferring a game from that equilibrium: i.e., identifying the game parameters that induce the observed equilibrium. We consider the backwards problem under weaker and weaker assumptions, ranging from inverse multiagent planning to inverse multiagent learning and beyond, for each of which we present min-max formulations. While it can be difficult to ensure that the min-max formulation of a forward problem is convex-concave, and thus amenable to standard solutions (e.g., gradient descent ascent), we find it easier to ensure that the min-max formulation of a backward problem is convex-concave. We apply our backwards method to Spanish electricity market time-series data, and then push the inferred game forward to predict future market prices. Joint work with Denizalp Goktas and Sadie Zhao."
-      bio: "Amy Greenwald is a Professor of Computer Science at Brown University in Providence, Rhode Island. Her research focuses on game-theoretic and economic interactions among computational agents with applications to automated bidding and negotiation in domains ranging from advertising auctions to supply chains. She is also active in promoting diversity in Computer Science, leading multiple K-12 initiatives in the Providence public schools."
-    - speaker: Pengyu Qian
+    - speaker: Weijie Zhong
       date: Nov. 4, 2024
       title: TBD
       abstract: TBD
       bio: TBD
-    - speaker: Azarahsksh Malekian
+    - speaker: Pengyu Qian
       date: Nov. 11, 2024
       title: TBD
       abstract: TBD
       bio: TBD
     - speaker: Noam Brown
       date: Nov. 18, 2024
+      title: TBD
+      abstract: TBD
+      bio: TBD
+    - speaker: Azarakhsh Malekian
+      date: Dec. 2, 2024
       title: TBD
       abstract: TBD
       bio: TBD
@@ -38,3 +33,14 @@
       title: "Language Generation in the Limit"
       abstract: "Although current large language models are complex, the most basic specifications of the underlying language generation problem itself are simple to state: given a finite set of training samples from an unknown language, produce valid new strings from the language that don't already appear in the training data. Here we ask what we can conclude about language generation using only this specification, without further properties or distributional assumptions. In particular, we consider models in which an adversary enumerates the strings of an unknown target language that is known only to come from one of a possibly infinite list of candidates, and the goal is to generate new strings from this target language; we show that it is possible to give certain non-trivial guarantees for language generation in this setting. The resulting guarantees contrast dramatically with negative results due to Gold and Angluin in a well-studied model of language learning where the goal is to identify an unknown language from samples; the difference between these results suggests that identifying a language is a fundamentally different problem than generating from it. (This is joint work with Sendhil Mullainathan.)"
       bio: "Jon Kleinberg is the Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University. His research focuses on the interaction of algorithms and networks, the roles they play in large-scale social and information systems, and their broader societal implications. He is a member of the National Academy of Sciences, the National Academy of Engineering, the American Academy of Arts and Sciences, and the American Philosophical Society, and he serves on the US National AI Advisory Committee. He has received MacArthur, Packard, Simons, Sloan, and Vannevar Bush research fellowships, as well as awards including the Harvey Prize, the Lanchester Prize, the Nevanlinna Prize, the World Laureates Association Prize, and the ACM Prize in Computing."
+    - speaker: Vinay Rao
+      date: Oct. 7, 2024
+      title: "Deployment Safeguards for AI Models"
+      abstract: ""
+      bio: "Vinay Rao leads Anthropic's Trust and Safety team, which develops and enforces policies governing Claude's real-world applications. His team focuses on mitigating catastrophic risks as well as critical risks such as election interference, child safety, and misinformation. They also play a key role in securing Anthropic's models to comply with the company's Responsible Scaling Policy for safe and ethical AI development and deployment. With nearly two decades of experience in trust and safety, Vinay has built and managed leading Trust and Safety functions at major tech companies, including YouTube, Google, Airbnb, and Stripe."
+    - speaker: Amy Greenwald
+      date: Oct. 28, 2024
+      title: "Solving Games Forwards and Backwards"
+      abstract: "Computing equilibria in games is a problem of great interest in both economics and computer science. We present a min-max formulation of this problem, in which the minimizer seeks an equilibrium solution for the game, while the maximizer seeks to find fault with the proposed solutions. We call this problem the 'forward' problem. In the 'backwards' problem, we are instead given an equilibrium and a parameterized game, and we are interested in inferring a game from that equilibrium: i.e., identifying the game parameters that induce the observed equilibrium. We consider the backwards problem under weaker and weaker assumptions, ranging from inverse multiagent planning to inverse multiagent learning and beyond, for each of which we present min-max formulations. While it can be difficult to ensure that the min-max formulation of a forward problem is convex-concave, and thus amenable to standard solutions (e.g., gradient descent ascent), we find it easier to ensure that the min-max formulation of a backward problem is convex-concave. We apply our backwards method to Spanish electricity market time-series data, and then push the inferred game forward to predict future market prices. Joint work with Denizalp Goktas and Sadie Zhao."
+      bio: "Amy Greenwald is a Professor of Computer Science at Brown University in Providence, Rhode Island. Her research focuses on game-theoretic and economic interactions among computational agents with applications to automated bidding and negotiation in domains ranging from advertising auctions to supply chains. She is also active in promoting diversity in Computer Science, leading multiple K-12 initiatives in the Providence public schools."
+    
