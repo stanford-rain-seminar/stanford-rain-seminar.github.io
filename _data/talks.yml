@@ -1,15 +1,15 @@
 - type: Upcoming Talks
   members:
+    
+
+        
+- type: Previous Talks This Year
+  members:
     - speaker: Cora Kyler
       date: Feb 3, 2025
       title: "Getting the Right Data: The Hidden Challenge of Dating Apps"
       abstract: ""
       bio: "Cora co-founded soon.dating, a coding project with her best friend that got popular in San Francisco last year. Before soon, she was a PhD student at UC Berkeley studying mathematical logic and philosophy - while building soon, she became entrenched in the data problem along the way. The talk will explore why gathering meaningful data is the true challenge in building effective dating platforms. While the solution might seem obvious, she'll discuss why getting the right data is both more crucial and more difficult than it appears."
-
-
-        
-- type: Previous Talks This Year
-  members:
     - speaker: Jay Baxter
       date: Jan 13, 2025
       title: "Community Notes: Under the Hood"
