@@ -1,12 +1,17 @@
 - type: "Upcoming Talks"
+  members:
+    - speaker: "Nicholas Christakis"
+      date: " April 10, 2025"
+      title: "Social Artificial Intelligence"
+          
+- type: "Previous Talks This Year"
   members:  
     - speaker: "Evi Micha"
       date: "Mar 10, 2025"
       title: "Fair and Representative Citizens' Assemblies" 
       abstract: "Sortition is based on the idea of choosing randomly selected representatives for decision-making. The main properties that make sortition particularly appealing are fairness and proportional representation. When a population lies on a representation metric, we formally define proportional representation using a notion called the core. Thus, we ask: Can we design a selection algorithm that satisfies fairness and the core simultaneously? We answer this question affirmatively and present an efficient selection algorithm, called Fair Greedy Capture, that is fair and provides a constant-factor approximation to the optimal core."
       bio: "Evi Micha is an assistant professor in Thomas Lord Department of Computer Science at the University of Southern California. She did her postdoc at Harvard University, and before that, she obtained her Ph.D. from the University of Toronto. Her research interests lie at the intersection of computer science and economics and span areas such as algorithmic fairness and computational social choice. One of her recent papers was selected as exemplary in the applied modeling track of ACM Conference on Economics and Computation. Her research has been awarded the 2024 Best Dissertation Award from the Canadia Artificial Intelligence Association and the 2024 IFAAMAS Victor Lesser Distinguished Dissertation Award runner-up."
-        
-- type: "Previous Talks This Year"
+
   members:
     - speaker: "Cora Kyler"
       date: "Feb 3, 2025"
