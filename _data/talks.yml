@@ -1,13 +1,17 @@
 - type: "Upcoming Talks"
   members:
+    - speaker: "Zoe Hitzing"
+      date: "May 12, 2025"
+      title: "Privacy of different dynamic mechanisms"
+      abstract: "We introduce a framework for comparing the privacy of different dynamic mechanisms. A mechanism designer employs a dynamic protocol to elicit agents’ private information. Protocols produce a set of contextual privacy violations—information learned about agents that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a subset of the violations it produces, while still implementing the choice rule. We show that selecting a maximally contextually private protocol involves a deliberate decision about whose privacy is most important to protect, and these protocols delay questions to those they aim to protect. Taking the second-price auction rule as an instructive example, we derive two novel designs that are maximally contextually private: the ascending-join and overdescending-join protocols."
+      bio: "Zoë Hitzig is a Junior Fellow at the Harvard Society of Fellows (on leave) and a Research Scientist at OpenAI."                
+- type: "Previous Talks This Year"
+  members:
     - speaker: "Nikhil Garg"
       date: "April 28, 2025"
       title: "Recommendations in high-stakes settings"
       abstract: "Recommendation systems are now used in high-stakes settings, including to help find jobs, schools, and partners. Building public interest recommender systems in such settings bring both individual-level (enabling exploration, diversity, data quality) and societal (fairness, capacity constraints, algorithmic monoculture) challenges. In this talk, I'll discuss our theoretical, empirical, and deployment work in tackling these challenges, including ongoing work on (a) applicant behavior and recommendations for the NYC HS match, (b) a platform to help discharge patients to long-term care facilities, (c) feed ranking algorithms on Bluesky for research paper recommendations. "
       bio: "Nikhil Garg is an assistant professor of Operations Research and Information Engineering (ORIE) at Cornell Tech. His work has received several awards, including NSF CAREER, INFORMS George Dantzig Dissertation award, ACM SIGecom Dissertation Award (Honorable Mention), Forbes 30 under 30 for Science, and the NSF graduate research fellowship. Previously, he received a MS and PhD from Stanford in 2020 where he was advised by Prof. Ashish Goel and Prof. Ramesh Johari."
-            
-- type: "Previous Talks This Year"
-  members:
     - speaker: "Nicholas Christakis"
       date: " April 10, 2025"
       title: "Social Artificial Intelligence"
