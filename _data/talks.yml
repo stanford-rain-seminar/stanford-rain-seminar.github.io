@@ -12,7 +12,6 @@
       title: "Contextually Private Mechanisms"
       abstract: "We introduce a framework for comparing the privacy of different dynamic mechanisms. A mechanism designer employs a dynamic protocol to elicit agents’ private information. Protocols produce a set of contextual privacy violations—information learned about agents that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a subset of the violations it produces, while still implementing the choice rule. We show that selecting a maximally contextually private protocol involves a deliberate decision about whose privacy is most important to protect, and these protocols delay questions to those they aim to protect. Taking the second-price auction rule as an instructive example, we derive two novel designs that are maximally contextually private: the ascending-join and overdescending-join protocols."
       bio: "Zoë Hitzig is a Junior Fellow at the Harvard Society of Fellows (on leave) and a Research Scientist at OpenAI."                
-
     - speaker: "Nikhil Garg"
       date: "April 28, 2025"
       title: "Recommendations in high-stakes settings"
