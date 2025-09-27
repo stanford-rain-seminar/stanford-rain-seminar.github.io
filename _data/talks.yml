@@ -8,4 +8,19 @@
         In the first part of this talk, we present some recent work on tracing back model performance to training data---improving on a long line of prior work in machine learning, our method can optimally (in a natural sense) predict the impact of training data on model performance. In the second part of the talk, we propose a framework for studying data pricing theoretically, inspired by our experimental results in the first part of the talk. We conclude with some open questions and directions.
       bio: |
         Andrew is an incoming Assistant Professor at CMU. Previously, he was a Stein Fellow at Stanford and a PhD student at MIT, where he was supported by an Open Philanthropy AI Fellowship. His interests are currently in understanding and predicting the effects of design choices on downstream machine learning systems.
-
+    - speaker: "Nika Haghtalab"
+      date: "Oct 7, 2025"
+    - speaker: "Alice Oh"
+      date: "Oct 14, 2025"
+    - speaker: "Connor Lawless"
+      date: "Oct 21, 2025"
+    - speaker: "Jon Kleinberg"
+      date: "Oct 28, 2025"
+    - speaker: "Dylan Hadfield-Menell"
+      date: "Nov 4, 2025"
+    - speaker: "Sarah Cen"
+      date: "Nov 11, 2025"
+    - speaker: "Adam Kalai"
+      date: "Nov 18, 2025"
+    - speaker: "Negin Golrezaei"
+      date: "Dec 2, 2025"
