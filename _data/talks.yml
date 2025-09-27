@@ -1,11 +1,10 @@
 - type: "Upcoming Talks"
   members:
     - speaker: "Andrew Ilyas"
-      date: "2025-09-30"
+      date: "Sep 30, 2025"
       title: "Data Attribution, Selection, and Valuation at Scale with Metagradients"
       abstract: |
         Training data is now recognized as a key driver the performance of AI systems. Indeed, AI companies are signing multi-million dollar deals for training data acquisition, raising the question: how "should" this training data be priced? Understanding how to value training data requires us to understand the downstream impact of this data on model behavior---which is made challenging by the complex, uninterpretable nature of large-scale ML models.
-        
         In the first part of this talk, we present some recent work on tracing back model performance to training data---improving on a long line of prior work in machine learning, our method can optimally (in a natural sense) predict the impact of training data on model performance. In the second part of the talk, we propose a framework for studying data pricing theoretically, inspired by our experimental results in the first part of the talk. We conclude with some open questions and directions.
       bio: |
         Andrew is an incoming Assistant Professor at CMU. Previously, he was a Stein Fellow at Stanford and a PhD student at MIT, where he was supported by an Open Philanthropy AI Fellowship. His interests are currently in understanding and predicting the effects of design choices on downstream machine learning systems.

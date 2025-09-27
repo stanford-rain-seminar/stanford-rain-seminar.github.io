@@ -8,7 +8,7 @@ meta-description: "The RAIN (Research on Algorithms and Incentives in Networks) 
 The Internet is a complex network made of both machines and people, and hence, problems in this domain often require techniques from both algorithms and the social sciences. The RAIN (Research on Algorithms and Incentives in Networks) seminar, supported by [SOAL](https://web.stanford.edu/group/soal/), provides a gathering place for talks and social discussion in this area.
 
 
-* Our talks are on Mondays from 4-5 PM PT in Y2E2 299!
+* Our talks are on Tuesdays from 4:30-5:30 PM PT in Spilker 232 (except 10/28, when it will be in Shriram 108)!
 * To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)! 
 
 {% for category in site.data.talks %}
@@ -57,7 +57,7 @@ Previous talks can be found [here](/archive).
 
 # About The Seminar
 
-**Seminar Organizers:** [Itai Ashlagi](http://www.stanford.edu/~iashlagi), [Mohak Goyal](https://sites.google.com/view/mohakg/home), [Tristan Pollner](https://tristanpollner.com).
+**Seminar Organizers:** [Amin Saberi](https://web.stanford.edu/~saberi/), [Nikil Selvam](https://www.nikilrs.com/), [Xizhi Tan](https://xizhitan.github.io/), [Ellen Vitercik](https://vitercik.github.io/).
 
 **Faculty Involved:** [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ashish Goel](https://web.stanford.edu/~ashishg/), [Ramesh Johari](http://www.stanford.edu/~rjohari/), [Amin Saberi](https://web.stanford.edu/~saberi/), [Aaron Sidford](https://web.stanford.edu/~sidford/), [Johan Ugander](https://web.stanford.edu/~jugander/), [Irene Lo](https://sites.google.com/view/irene-lo), [Ellen Vitercik](https://vitercik.github.io/).
 
