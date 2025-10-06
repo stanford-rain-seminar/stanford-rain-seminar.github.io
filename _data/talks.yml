@@ -1,17 +1,19 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Andrew Ilyas"
-      date: "Sep 30, 2025"
-      title: "Data Attribution, Selection, and Valuation at Scale with Metagradients"
-      abstract: |
-        Training data is now recognized as a key driver the performance of AI systems. Indeed, AI companies are signing multi-million dollar deals for training data acquisition, raising the question: how "should" this training data be priced? Understanding how to value training data requires us to understand the downstream impact of this data on model behavior---which is made challenging by the complex, uninterpretable nature of large-scale ML models.
-        In the first part of this talk, we present some recent work on tracing back model performance to training data---improving on a long line of prior work in machine learning, our method can optimally (in a natural sense) predict the impact of training data on model performance. In the second part of the talk, we propose a framework for studying data pricing theoretically, inspired by our experimental results in the first part of the talk. We conclude with some open questions and directions.
-      bio: |
-        Andrew is an incoming Assistant Professor at CMU. Previously, he was a Stein Fellow at Stanford and a PhD student at MIT, where he was supported by an Open Philanthropy AI Fellowship. His interests are currently in understanding and predicting the effects of design choices on downstream machine learning systems.
     - speaker: "Nika Haghtalab"
       date: "Oct 7, 2025"
+      title: "Distortion of Learning and AI Alignment from Heterogenous Human Feedback"
+      abstract: |
+        After pre-training, large language models are aligned with human preferences based on crowdsourced pairwise comparisons. State-of-the-art alignment methods (such as PPO-based RLHF and DPO) are built on the assumption of aligning with a single preference model, despite being deployed in settings where users have diverse preferences. As a result, it is not even clear that these alignment methods produce models that satisfy users in any meaningful way.  In this work, we ask a deceptively simple yet foundational question: Do state-of-the-art alignment methods actually produce models that satisfy users on average in the presence of heterogeneous preferences? Drawing on social choice theory, and modeling each user’s comparisons via an individual Bradley–Terry (BT) model, we introduce the distortion of an alignment method: the worst-case ratio between the optimal achievable average utility and the average utility of the learned policy. This notion yields concrete insights into alignment with heterogeneous preferences. In particular, we establish an impossibility result for aligning to average user utility — counter to the conventional wisdom that ML methods, even if imperfect for every individual, at least perform well on average. Distortion also highlights sharp differences between alignment methods: we show that widely used approaches such as RLHF and DPO can have exponentially large — or even unbounded — distortion, whereas a constant minimax-optimal distortion is achievable via a method inspired by social choice theory, known as maximal lotteries, or Nash Learning from Human Feedback.
+      bio: |
+        Nika Haghtalab is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. She works on a broad and versatile set of problems related to machine learning, algorithms, economics, and society. Her work contributes to an emerging mathematical foundation for learning and decision-making systems in the presence of economic and societal forces. Her work has been recognized by a Sloan fellowship (2024), Schmidt Sciences AI2050 award, NSF CAREER (2022), Google Research Scholar award (2023), NeurIPS and ICAPS best paper awards, EC exemplary track paper awards, and several other industry awards and fellowships.
     - speaker: "Alice Oh"
       date: "Oct 14, 2025"
+      title: "LLM Evaluation for the Real World"
+      abstract: | 
+        Traditional evaluation methods for large language models (LLMs)—often centered on accuracy in static multiple-choice or short-answer questions—fail to capture real-world complexities. As LLMs increasingly serve users in dynamic, multicultural contexts, we must redefine meaningful evaluation. This talk presents our recent research advancing LLM evaluation through culturally aware, socially grounded, and customizable benchmarks. We assess factual consistency across languages, everyday knowledge in underrepresented cultures, and cultural inclusivity. We highlight that biases become evident in generation tasks, reflecting actual LLM use. Central to our approach is BenchHub, a unified benchmark suite categorizing over 300,000 questions across diverse domains and cultures, enabling tailored evaluations. BenchHub underscores domain-specific variations and the critical role benchmark composition plays in LLM performance rankings. These insights demonstrate that accuracy alone is insufficient; comprehensive LLM evaluation must consider culture, context, and customization. This talk advocates a broader evaluation agenda, presenting foundational steps toward robust, inclusive assessments.
+      bio: |
+        Alice Oh is a Professor in the School of Computing at KAIST. Her major research area is at the intersection of natural language processing (NLP) and computational social science, with a recent focus on multilingual and multicultural aspects of LLMs. She collaborates with scholars in humanities and social sciences such as political science, education, and history. She has served as Program Chair for ICLR 2021 and NeurIPS 2022, General Chair for ACM FAccT 2022 and NeurIPS 2023, and DEI Chair for COLM 2024. She is the current President of SIGDAT which oversees EMNLP.
     - speaker: "Connor Lawless"
       date: "Oct 21, 2025"
     - speaker: "Jon Kleinberg"
@@ -24,3 +26,14 @@
       date: "Nov 18, 2025"
     - speaker: "Negin Golrezaei"
       date: "Dec 2, 2025"
+- type: "Previous Talks This Year"
+  members:
+    - speaker: "Andrew Ilyas"
+      date: "Sep 30, 2025"
+      title: "Data Attribution, Selection, and Valuation at Scale with Metagradients"
+      abstract: |
+        Training data is now recognized as a key driver the performance of AI systems. Indeed, AI companies are signing multi-million dollar deals for training data acquisition, raising the question: how "should" this training data be priced? Understanding how to value training data requires us to understand the downstream impact of this data on model behavior---which is made challenging by the complex, uninterpretable nature of large-scale ML models.
+        In the first part of this talk, we present some recent work on tracing back model performance to training data---improving on a long line of prior work in machine learning, our method can optimally (in a natural sense) predict the impact of training data on model performance. In the second part of the talk, we propose a framework for studying data pricing theoretically, inspired by our experimental results in the first part of the talk. We conclude with some open questions and directions.
+      bio: |
+        Andrew is an incoming Assistant Professor at CMU. Previously, he was a Stein Fellow at Stanford and a PhD student at MIT, where he was supported by an Open Philanthropy AI Fellowship. His interests are currently in understanding and predicting the effects of design choices on downstream machine learning systems.
+
