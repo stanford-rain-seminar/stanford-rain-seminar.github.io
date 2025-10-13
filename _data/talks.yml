@@ -1,12 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Nika Haghtalab"
-      date: "Oct 7, 2025"
-      title: "Distortion of Learning and AI Alignment from Heterogenous Human Feedback"
-      abstract: |
-        After pre-training, large language models are aligned with human preferences based on crowdsourced pairwise comparisons. State-of-the-art alignment methods (such as PPO-based RLHF and DPO) are built on the assumption of aligning with a single preference model, despite being deployed in settings where users have diverse preferences. As a result, it is not even clear that these alignment methods produce models that satisfy users in any meaningful way.  In this work, we ask a deceptively simple yet foundational question: Do state-of-the-art alignment methods actually produce models that satisfy users on average in the presence of heterogeneous preferences? Drawing on social choice theory, and modeling each user’s comparisons via an individual Bradley–Terry (BT) model, we introduce the distortion of an alignment method: the worst-case ratio between the optimal achievable average utility and the average utility of the learned policy. This notion yields concrete insights into alignment with heterogeneous preferences. In particular, we establish an impossibility result for aligning to average user utility — counter to the conventional wisdom that ML methods, even if imperfect for every individual, at least perform well on average. Distortion also highlights sharp differences between alignment methods: we show that widely used approaches such as RLHF and DPO can have exponentially large — or even unbounded — distortion, whereas a constant minimax-optimal distortion is achievable via a method inspired by social choice theory, known as maximal lotteries, or Nash Learning from Human Feedback.
-      bio: |
-        Nika Haghtalab is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. She works on a broad and versatile set of problems related to machine learning, algorithms, economics, and society. Her work contributes to an emerging mathematical foundation for learning and decision-making systems in the presence of economic and societal forces. Her work has been recognized by a Sloan fellowship (2024), Schmidt Sciences AI2050 award, NSF CAREER (2022), Google Research Scholar award (2023), NeurIPS and ICAPS best paper awards, EC exemplary track paper awards, and several other industry awards and fellowships.
     - speaker: "Alice Oh"
       date: "Oct 14, 2025"
       title: "LLM Evaluation for the Real World"
@@ -28,6 +21,13 @@
       date: "Dec 2, 2025"
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Nika Haghtalab"
+      date: "Oct 7, 2025"
+      title: "Distortion of Learning and AI Alignment from Heterogenous Human Feedback"
+      abstract: |
+        After pre-training, large language models are aligned with human preferences based on crowdsourced pairwise comparisons. State-of-the-art alignment methods (such as PPO-based RLHF and DPO) are built on the assumption of aligning with a single preference model, despite being deployed in settings where users have diverse preferences. As a result, it is not even clear that these alignment methods produce models that satisfy users in any meaningful way.  In this work, we ask a deceptively simple yet foundational question: Do state-of-the-art alignment methods actually produce models that satisfy users on average in the presence of heterogeneous preferences? Drawing on social choice theory, and modeling each user’s comparisons via an individual Bradley–Terry (BT) model, we introduce the distortion of an alignment method: the worst-case ratio between the optimal achievable average utility and the average utility of the learned policy. This notion yields concrete insights into alignment with heterogeneous preferences. In particular, we establish an impossibility result for aligning to average user utility — counter to the conventional wisdom that ML methods, even if imperfect for every individual, at least perform well on average. Distortion also highlights sharp differences between alignment methods: we show that widely used approaches such as RLHF and DPO can have exponentially large — or even unbounded — distortion, whereas a constant minimax-optimal distortion is achievable via a method inspired by social choice theory, known as maximal lotteries, or Nash Learning from Human Feedback.
+      bio: |
+        Nika Haghtalab is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. She works on a broad and versatile set of problems related to machine learning, algorithms, economics, and society. Her work contributes to an emerging mathematical foundation for learning and decision-making systems in the presence of economic and societal forces. Her work has been recognized by a Sloan fellowship (2024), Schmidt Sciences AI2050 award, NSF CAREER (2022), Google Research Scholar award (2023), NeurIPS and ICAPS best paper awards, EC exemplary track paper awards, and several other industry awards and fellowships.
     - speaker: "Andrew Ilyas"
       date: "Sep 30, 2025"
       title: "Data Attribution, Selection, and Valuation at Scale with Metagradients"
