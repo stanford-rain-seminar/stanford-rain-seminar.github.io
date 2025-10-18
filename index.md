@@ -8,7 +8,7 @@ meta-description: "The RAIN (Research on Algorithms and Incentives in Networks) 
 The Internet is a complex network made of both machines and people, and hence, problems in this domain often require techniques from both algorithms and the social sciences. The RAIN (Research on Algorithms and Incentives in Networks) seminar, supported by [SOAL](https://web.stanford.edu/group/soal/), provides a gathering place for talks and social discussion in this area.
 
 
-* Our talks are on Tuesdays from 4:30-5:30 PM PT in Spilker 232 (except 10/28, when it will be in Shriram 108)!
+* Our talks are on Tuesdays from 4:30-5:30 PM PT in Spilker 232!
 * To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)! 
 
 {% for category in site.data.talks %}
