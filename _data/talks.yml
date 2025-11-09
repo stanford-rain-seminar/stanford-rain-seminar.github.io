@@ -1,12 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Dylan Hadfield-Menell"
-      date: "Nov 4, 2025"
-      title: "Building aligned agents for open-universe tasks"
-      abstract: |
-        As agents move from the lab into real-world settings, designers have a limited ability to anticipate the agent's context and design explicit safeguards. In this talk, I will outline challenges that this raises from the perspective of designing flexible, robust, and aligned agent behaviors. The key to the approach is to design agents that can model and respond to appropriate uncertainty about a user's intended goal and the normative environment they are deployed into. I will begin with a survey of current alignment techniques and AI agents, then outline the theoretical motivation for this approach. Next, I will describe recent work from my lab that attempts to address this problem by 1) designing flexible goal inference mechanisms that can track the set of plausible user goals reliably from context; and 2) integrating these inference tools with efficient agent designs that leverage POMDP solvers in order to train agents that implement belief-constrained behaviors. I will conclude with a discussion of recent work that evaluates collaborative agents and discuss the implications for the design of aligned systems that augment and integrate with human users and intent.
-      bio: |
-        Dylan Hadfield-Menell is an Associate Professor of EECS at MIT. His research develops methods to ensure that AI systems behavior aligns with the goals and values of their human users and society as a whole, a concept known as 'AI alignment'. His goal is to enable the safe, beneficial, and trustworthy deployment of AI in real-world settings.
     - speaker: "Sarah Cen"
       date: "Nov 11, 2025"
       title: "Bridging the Gap Between Research and Policy in AI Safety and Accountability"
@@ -20,6 +13,13 @@
       date: "Dec 2, 2025"
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Dylan Hadfield-Menell"
+      date: "Nov 4, 2025"
+      title: "Building aligned agents for open-universe tasks"
+      abstract: |
+        As agents move from the lab into real-world settings, designers have a limited ability to anticipate the agent's context and design explicit safeguards. In this talk, I will outline challenges that this raises from the perspective of designing flexible, robust, and aligned agent behaviors. The key to the approach is to design agents that can model and respond to appropriate uncertainty about a user's intended goal and the normative environment they are deployed into. I will begin with a survey of current alignment techniques and AI agents, then outline the theoretical motivation for this approach. Next, I will describe recent work from my lab that attempts to address this problem by 1) designing flexible goal inference mechanisms that can track the set of plausible user goals reliably from context; and 2) integrating these inference tools with efficient agent designs that leverage POMDP solvers in order to train agents that implement belief-constrained behaviors. I will conclude with a discussion of recent work that evaluates collaborative agents and discuss the implications for the design of aligned systems that augment and integrate with human users and intent.
+      bio: |
+        Dylan Hadfield-Menell is an Associate Professor of EECS at MIT. His research develops methods to ensure that AI systems behavior aligns with the goals and values of their human users and society as a whole, a concept known as 'AI alignment'. His goal is to enable the safe, beneficial, and trustworthy deployment of AI in real-world settings.
     - speaker: "Connor Lawless"
       date: "Oct 21, 2025"
       title: "Democratizing Optimization via Generative AI"
