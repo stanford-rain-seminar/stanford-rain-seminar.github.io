@@ -9,6 +9,11 @@
         Sarah Cen is a postdoc at Stanford University and incoming Assistant Professor at Carnegie Mellon University's Departments of ECE & EPP. At Stanford, Sarah works with Prof. Percy Liang in Computer Science and Prof. Daniel Ho in the Stanford Law School. Her research is interdisciplinary and inspired by works in machine learning, economics, law, and policy. She has ongoing work on algorithmic auditing, AI supply chains, due process for AI determinations, risk under the EU AI Act, and formalizing trustworthy algorithms. Previously, Sarah received her BSE in Mechanical Engineering from Princeton University and Master's in Engineering Science (Robotics) from Oxford University, where she worked on autonomous vehicles.
     - speaker: "Adam Kalai"
       date: "Nov 18, 2025"
+      title: "Why Language Models Hallucinate"
+      abstract: |
+        Large language models (LLMs) sometimes generate statements that are plausible but factually incorrect—a phenomenon commonly called "hallucination." We argue that these errors are not mysterious failures of architecture or reasoning, but rather predictable consequences of standard training and evaluation incentives. We show (i) that hallucinations can be viewed as classification errors: when pretrained models cannot reliably distinguish a false statement from a true one, they may produce the false option rather than saying I don't know; (ii) that optimization of benchmark performance encourages guessing rather than abstaining, since most evaluation metrics penalize expressing uncertainty; and (iii) that a possible mitigation path lies in revising existing benchmarks to reward calibrated abstention, thus realigning incentives in model development. Joint work with Santosh Vempala (Georgia Tech) and Ofir Nachum & Edwin Zhang (OpenAI).
+      bio: |
+        Adam Tauman Kalai is a Research Scientist at OpenAI, specializing in AI Safety and Ethics. His research interests also include algorithms, AI theory, and game theory. Adam earned his BA from Harvard University and his PhD from Carnegie Mellon University, after which he served as an Assistant Professor at TTIC and Georgia Tech and a Senior Principal Researcher at Microsoft Research New England. He is also a member of Project CETI's science team.
     - speaker: "Negin Golrezaei"
       date: "Dec 2, 2025"
 - type: "Previous Talks This Year"
