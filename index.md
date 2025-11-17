@@ -1,11 +1,11 @@
 ---
 layout: default
-meta-description: "The RAIN (Research on Algorithms and Incentives in Networks) seminar provides a gathering place for talks and social discussion in this area.."
+meta-description: "The RAIN (Research on Artificial Intelligence and Incentives) seminar is a hub for talks on the theory and practice of AI in strategic and societal settings."
 ---
 
-# Stanford RAIN (Research on Algorithms and Incentives in Networks) Seminar
+# Stanford RAIN (**R**esearch on **A**rtificial Intelligence and **IN**centives) Seminar
 
-The Internet is a complex network made of both machines and people, and hence, problems in this domain often require techniques from both algorithms and the social sciences. The RAIN (Research on Algorithms and Incentives in Networks) seminar, supported by [SOAL](https://web.stanford.edu/group/soal/), provides a gathering place for talks and social discussion in this area.
+RAIN is a seminar on the theory and practice of AI in strategic and societal settings. Supported by Stanford’s Society & Algorithms Lab ([SOAL](https://web.stanford.edu/group/soal/)), it serves as a hub for talks and discussion at the intersection of AI, incentives, and society.
 
 
 * Our talks are on Tuesdays from 4:30-5:30 PM PT in Spilker 232!

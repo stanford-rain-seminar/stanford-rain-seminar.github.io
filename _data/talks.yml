@@ -1,12 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Sarah Cen"
-      date: "Nov 11, 2025"
-      title: "Bridging the Gap Between Research and Policy in AI Safety and Accountability"
-      abstract: |
-        As AI becomes increasingly integrated into both the private and public sectors, challenges around AI safety and policy have arisen. There is a growing, compelling body of work around the legal and societal challenges that come with AI, but there is a gap in our rigorous understanding of these problems. In this talk, I dive deep into a few topics in AI safety and policy. We will discuss AI supply chains (the increasingly complex ecosystem of AI actors and components that contribute to AI products) and study how AI supply chains complicate machine learning objectives. We'll then shift our discussion to AI audits and evidentiary burdens in cases involving AI. Using Pareto frontiers as a tool for assessing performance-fairness tradeoffs, we will show how a closed-form expression for performance-fairness Pareto frontiers can help plaintiffs (or auditors) overcome evidentiary burdens or a lack of access in AI contexts. I'll conclude with a longitudinal study of LLMs during the 2024 US election season. If time permits, we may touch on formal notions of trustworthiness.
-      bio: |
-        Sarah Cen is a postdoc at Stanford University and incoming Assistant Professor at Carnegie Mellon University's Departments of ECE & EPP. At Stanford, Sarah works with Prof. Percy Liang in Computer Science and Prof. Daniel Ho in the Stanford Law School. Her research is interdisciplinary and inspired by works in machine learning, economics, law, and policy. She has ongoing work on algorithmic auditing, AI supply chains, due process for AI determinations, risk under the EU AI Act, and formalizing trustworthy algorithms. Previously, Sarah received her BSE in Mechanical Engineering from Princeton University and Master's in Engineering Science (Robotics) from Oxford University, where she worked on autonomous vehicles.
     - speaker: "Adam Kalai"
       date: "Nov 18, 2025"
       title: "Why Language Models Hallucinate"
@@ -18,6 +11,13 @@
       date: "Dec 2, 2025"
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Sarah Cen"
+      date: "Nov 11, 2025"
+      title: "Bridging the Gap Between Research and Policy in AI Safety and Accountability"
+      abstract: |
+        As AI becomes increasingly integrated into both the private and public sectors, challenges around AI safety and policy have arisen. There is a growing, compelling body of work around the legal and societal challenges that come with AI, but there is a gap in our rigorous understanding of these problems. In this talk, I dive deep into a few topics in AI safety and policy. We will discuss AI supply chains (the increasingly complex ecosystem of AI actors and components that contribute to AI products) and study how AI supply chains complicate machine learning objectives. We'll then shift our discussion to AI audits and evidentiary burdens in cases involving AI. Using Pareto frontiers as a tool for assessing performance-fairness tradeoffs, we will show how a closed-form expression for performance-fairness Pareto frontiers can help plaintiffs (or auditors) overcome evidentiary burdens or a lack of access in AI contexts. I'll conclude with a longitudinal study of LLMs during the 2024 US election season. If time permits, we may touch on formal notions of trustworthiness.
+      bio: |
+        Sarah Cen is a postdoc at Stanford University and incoming Assistant Professor at Carnegie Mellon University's Departments of ECE & EPP. At Stanford, Sarah works with Prof. Percy Liang in Computer Science and Prof. Daniel Ho in the Stanford Law School. Her research is interdisciplinary and inspired by works in machine learning, economics, law, and policy. She has ongoing work on algorithmic auditing, AI supply chains, due process for AI determinations, risk under the EU AI Act, and formalizing trustworthy algorithms. Previously, Sarah received her BSE in Mechanical Engineering from Princeton University and Master's in Engineering Science (Robotics) from Oxford University, where she worked on autonomous vehicles.
     - speaker: "Dylan Hadfield-Menell"
       date: "Nov 4, 2025"
       title: "Building aligned agents for open-universe tasks"

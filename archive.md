@@ -3,7 +3,7 @@ layout: default
 meta-description: "RAIN Seminar Talk Archive"
 ---
 
-# Stanford RAIN (Research on Algorithms and Incentives in Networks) Seminar Talk Archive
+# Stanford RAIN (Research on Artificial Intelligence and Incentives) Seminar Talk Archive
 
 {% for category in site.data.archive %}
 # {{ category.type }}
