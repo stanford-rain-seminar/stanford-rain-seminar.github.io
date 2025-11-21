@@ -8,7 +8,7 @@ meta-description: "The RAIN (Research on Artificial Intelligence and Incentives)
 RAIN is a seminar on the theory and practice of AI in strategic and societal settings. Supported by Stanford’s Society & Algorithms Lab ([SOAL](https://web.stanford.edu/group/soal/)), it serves as a hub for talks and discussion at the intersection of AI, incentives, and society.
 
 
-* Our talks are on Tuesdays from 4:30-5:30 PM PT in Spilker 232!
+* Our talks are on Tuesdays from 4:30-5:30 PM PT (except 12/2, when its 4:00-5:00 PM) in Spilker 232!
 * To receive updates on upcoming talks, please join our [email list](https://mailman.stanford.edu/mailman/listinfo/internetalgs)! 
 
 {% for category in site.data.talks %}
