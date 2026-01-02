@@ -1,9 +1,19 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Sebastien Bubeck"
-      date: "Jan 6, 2026"
     - speaker: "Christian Borgs"
+      date: "Jan 6, 2026"
+      title: "Are travel bans effective in containing the spread of a disease?"
+      abstract: |
+        In this talk, I present a mathematical model for the spread of an epidemic from one community to another via travel. Here each community is modeled by a random network (for simplicity, we assume it is an Erdos-Renyi random graph), with the epidemic spread inside the community given by the SIR model on this graph. Travel is modeled by individuals moving from one community to the other at some rate eta_T, and returning home at another rate eta_H. We assume that the return rate is of the same order as the recovery rate of the epidemic, while eta_T is much smaller. Under this assumption, we rigorously prove that if an epidemic starts in the first community, and the second community enacts a travel ban at the moment the epidemic is large enough to be detectable, such a travel ban is ineffective in preventing a large outbreak in the second community. But contrast, other mitigation measure like masks or vaccinations (modeled by reducing the rate of infections in the second community) are effective.
+      bio: |
+        Christian Borgs is professor in the Berkeley AI Research Group (BAIR) in the EECS department at Berkeley, and faculty director of the Bakar Institute of Digital Materials for the Planet. Borgs is a Fellow of the American Mathematical Society, and the American Association for the Advancement of Science. Borgs current research focuses on both AI for science and the science of networks, including mathematical foundations, particularly the theory of graph limits aka Graphons (which he co-invented about 15 years ago), graph processes, graph algorithms, and applications of graph theory from economics to systems biology and epidemics.
+    - speaker: "Sebastien Bubeck"
       date: "Jan 13, 2026"
+      title: "Recent advances in LLMs for Mathematics"
+      abstract: |
+        I will review the progress of large language models for mathematics over the last 3 years, from barely solving high school level mathematics to solving some minor open problems in convex optimization, combinatorics and probability theory. The emphasis will be on trying to identify the shape of the current frontier capabilities, as it stands today, finding out both where it's helpful and where it's still falling short as a research assistant.
+      bio: |
+        Sebastien Bubeck is currently a research lead at OpenAI. Previously he served as VP AI and Distinguished Scientist at Microsoft, spending 10 years in Microsoft Research, and before that he was an assistant professor at Princeton University. His work on machine learning, convex optimization and online algorithms won several best paper awards, and more recently his work on Large (and Small) Language Models, including their applications to science, were featured in mainstream media such as the New York Times and Wired.
     - speaker: "Joseph Jay Williams"
       date: "Jan 20, 2026"
     - speaker: "Jon Kleinberg"
