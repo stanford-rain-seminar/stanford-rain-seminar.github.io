@@ -1,12 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Christian Borgs"
-      date: "Jan 6, 2026"
-      title: "Are travel bans effective in containing the spread of a disease?"
-      abstract: |
-        In this talk, I present a mathematical model for the spread of an epidemic from one community to another via travel. Here each community is modeled by a random network (for simplicity, we assume it is an Erdos-Renyi random graph), with the epidemic spread inside the community given by the SIR model on this graph. Travel is modeled by individuals moving from one community to the other at some rate eta_T, and returning home at another rate eta_H. We assume that the return rate is of the same order as the recovery rate of the epidemic, while eta_T is much smaller. Under this assumption, we rigorously prove that if an epidemic starts in the first community, and the second community enacts a travel ban at the moment the epidemic is large enough to be detectable, such a travel ban is ineffective in preventing a large outbreak in the second community. But contrast, other mitigation measure like masks or vaccinations (modeled by reducing the rate of infections in the second community) are effective.
-      bio: |
-        Christian Borgs is professor in the Berkeley AI Research Group (BAIR) in the EECS department at Berkeley, and faculty director of the Bakar Institute of Digital Materials for the Planet. Borgs is a Fellow of the American Mathematical Society, and the American Association for the Advancement of Science. Borgs current research focuses on both AI for science and the science of networks, including mathematical foundations, particularly the theory of graph limits aka Graphons (which he co-invented about 15 years ago), graph processes, graph algorithms, and applications of graph theory from economics to systems biology and epidemics.
     - speaker: "Sebastien Bubeck"
       date: "Jan 13, 2026"
       title: "Recent advances in LLMs for Mathematics"
@@ -16,6 +9,11 @@
         Sebastien Bubeck is currently a research lead at OpenAI. Previously he served as VP AI and Distinguished Scientist at Microsoft, spending 10 years in Microsoft Research, and before that he was an assistant professor at Princeton University. His work on machine learning, convex optimization and online algorithms won several best paper awards, and more recently his work on Large (and Small) Language Models, including their applications to science, were featured in mainstream media such as the New York Times and Wired.
     - speaker: "Joseph Jay Williams"
       date: "Jan 20, 2026"
+      title: "Using Adaptive Experimentation to Design Real-World AI Systems for Education & Health"
+      abstract: |
+        AI systems can look promising - helping certain people with mental health and some students with learning - yet fail others. I develop Adaptive A/B Experimentation methods that embed AI into everyday interfaces to discover which actions work, for who, when. These generated AI systems that used text messages for mental health coaching, and made online homework test explanations like a real teacher. Adaptive Experimentation enabled AI systems to: (1) Generate candidate actions using improved LLM interfaces and co-design between LLMs, users, scientists (e.g. action A, B, C…); (2) Use reinforcement learning algorithms to test, personalize, and deploy interventions in real time. We identified an intervention that boosted student grades by as much as 4% in just 3 minutes. 1st place in the $1M XPRIZE and a $3M NSF grant were awarded to enable collaboration across disciplines and domains in using Adaptive Experimentation - to improve how AI systems change beliefs and behavior for the better. More about the research program is at tiny.cc/williamsresearch, papers at tiny.cc/williamspapers, and past talk recordings are at tiny.cc/williamstalk.
+      bio: |
+        Joseph Jay Williams is an Assistant Professor at the University of Toronto in Computer Science, with courtesy appointments supervising PhD students in Statistical Sciences, Psychology, and the Vector Institute for Artificial Intelligence. He also has courtesy appointments in Economics, Industrial Engineering, & the Faculty of Information. He directs the Adaptive Experimentation and Intelligent Interventions lab, which aims to transform any user interface into an Intervention to help people change their behaviour and learn, by reimagining randomized "A/B" experiments as a tool for Intelligent Adaptation. His lab's work is represented in over 85 papers (tiny.cc/williamspapers), 2 Best Paper Awards (1 at CHI), 4 Runner Up/Honorable Mention for Best Paper (CHI, EDM, LAS), and 1st place in a $1M Xprize competition for the future of experimentation technology in education. He's received over $2M in grant funding, enabling interventions impacting over 500 000 people. His PhD Students span HCI (Human Computer Interaction), Cognitive/Social/Clinical/Health Psychology, applied ML (reinforcement learning), applied AI (LLMs), & Statistics. Joseph was previously an Assistant Professor in Information Systems & Analytics at the National University of Singapore, Research Scientist at Harvard, postdoc at Stanford, and did his PhD at UC Berkeley. He is originally from Trinidad and Tobago.
     - speaker: "Jon Kleinberg"
       date: "Jan 27, 2026"
     - speaker: "Meena Jagadeesan"
@@ -32,6 +30,13 @@
       date: "Mar 10, 2026"
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Christian Borgs"
+      date: "Jan 6, 2026"
+      title: "Are travel bans effective in containing the spread of a disease?"
+      abstract: |
+        In this talk, I present a mathematical model for the spread of an epidemic from one community to another via travel. Here each community is modeled by a random network (for simplicity, we assume it is an Erdos-Renyi random graph), with the epidemic spread inside the community given by the SIR model on this graph. Travel is modeled by individuals moving from one community to the other at some rate eta_T, and returning home at another rate eta_H. We assume that the return rate is of the same order as the recovery rate of the epidemic, while eta_T is much smaller. Under this assumption, we rigorously prove that if an epidemic starts in the first community, and the second community enacts a travel ban at the moment the epidemic is large enough to be detectable, such a travel ban is ineffective in preventing a large outbreak in the second community. But contrast, other mitigation measure like masks or vaccinations (modeled by reducing the rate of infections in the second community) are effective.
+      bio: |
+        Christian Borgs is professor in the Berkeley AI Research Group (BAIR) in the EECS department at Berkeley, and faculty director of the Bakar Institute of Digital Materials for the Planet. Borgs is a Fellow of the American Mathematical Society, and the American Association for the Advancement of Science. Borgs current research focuses on both AI for science and the science of networks, including mathematical foundations, particularly the theory of graph limits aka Graphons (which he co-invented about 15 years ago), graph processes, graph algorithms, and applications of graph theory from economics to systems biology and epidemics.
     - speaker: "Adam Kalai"
       date: "Nov 18, 2025"
       title: "Why Language Models Hallucinate"
