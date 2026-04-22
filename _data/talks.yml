@@ -1,15 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Juba Ziani"
-      date: "Apr 21, 2026"
-      title: "How Differential Privacy Shapes Incentives in Data Sharing"
-      abstract: |
-        Many data-driven decisions rely on combining data held by multiple independent actors who differ in their willingness to share sensitive information. While differential privacy is often regarded as a gold standard for privacy in statistical analysis and learning tasks, much less is understood about how privacy choices shape incentives to participate and contribute data when participation is voluntary.
-        This talk takes an economic and incentive-centric view of differential privacy in collaborative and federated data-sharing environments. I study settings in which participation is voluntary, and privacy protection affects agents' incentives, trading off learning benefits—which improve as more data are pooled—against privacy disutilities from sharing sensitive information. The talk analyzes both centralized designs, in which a platform commits to a (potentially personalized) privacy policy and agents decide whether to participate, and decentralized designs, in which agents jointly determine participation and form data-sharing coalitions through direct interactions.
-        This is based on two recent joint works. One with Rachel Cummings, Hadi Elzayn, Vasilis Gkatzelis, Manolis Pountourakis, and one with Raef Bassily, Kate Donahue, and student authors Diptangshu Sen and Annuo Zhao.
-      bio: |
-        Juba Ziani is an Assistant Professor in the School of Industrial and Systems Engineering and an Adjunct Professor in the School of Computer Science at Georgia Tech. He is a recipient of the NSF CAREER Award. His research lies at the intersection of computer science, operations research, and economics. He uses tools from learning theory, game theory, and optimization to address technical and societal challenges arising from AI, machine learning, and data-driven decision-making.
-        Prior to joining Georgia Tech, Juba was a Ph.D. student in Computing and Mathematical Sciences at Caltech, advised by Katrina Ligett and Adam Wierman, and a postdoctoral fellow at the Warren Center for Data Science at the University of Pennsylvania, hosted by Sampath Kannan, Michael Kearns, and Aaron Roth.
     - speaker: "Cathy Wu"
       date: "Apr 28, 2026"
       title: "Tackling the Long Tail of Optimization Problems with Machine Learning for Transportation Systems Analysis"
@@ -25,10 +15,20 @@
       date: "May 19, 2026"
     - speaker: "Ashesh Rambachan"
       date: "May 26, 2026"
-    - speaker: "Vijay Vazirani"
+    - speaker: "Kevin Leyton-Brown"
       date: "Jun 2, 2026"
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Juba Ziani"
+      date: "Apr 21, 2026"
+      title: "How Differential Privacy Shapes Incentives in Data Sharing"
+      abstract: |
+        Many data-driven decisions rely on combining data held by multiple independent actors who differ in their willingness to share sensitive information. While differential privacy is often regarded as a gold standard for privacy in statistical analysis and learning tasks, much less is understood about how privacy choices shape incentives to participate and contribute data when participation is voluntary.
+        This talk takes an economic and incentive-centric view of differential privacy in collaborative and federated data-sharing environments. I study settings in which participation is voluntary, and privacy protection affects agents' incentives, trading off learning benefits—which improve as more data are pooled—against privacy disutilities from sharing sensitive information. The talk analyzes both centralized designs, in which a platform commits to a (potentially personalized) privacy policy and agents decide whether to participate, and decentralized designs, in which agents jointly determine participation and form data-sharing coalitions through direct interactions.
+        This is based on two recent joint works. One with Rachel Cummings, Hadi Elzayn, Vasilis Gkatzelis, Manolis Pountourakis, and one with Raef Bassily, Kate Donahue, and student authors Diptangshu Sen and Annuo Zhao.
+      bio: |
+        Juba Ziani is an Assistant Professor in the School of Industrial and Systems Engineering and an Adjunct Professor in the School of Computer Science at Georgia Tech. He is a recipient of the NSF CAREER Award. His research lies at the intersection of computer science, operations research, and economics. He uses tools from learning theory, game theory, and optimization to address technical and societal challenges arising from AI, machine learning, and data-driven decision-making.
+        Prior to joining Georgia Tech, Juba was a Ph.D. student in Computing and Mathematical Sciences at Caltech, advised by Katrina Ligett and Adam Wierman, and a postdoctoral fellow at the Warren Center for Data Science at the University of Pennsylvania, hosted by Sampath Kannan, Michael Kearns, and Aaron Roth.
     - speaker: "Chara Podimata"
       date: "Apr 14, 2026"
       title: "Toward a Science of Auditing AI-Mediated Information Ecosystems"
