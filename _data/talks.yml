@@ -1,12 +1,5 @@
 - type: "Upcoming Talks"
   members:
-    - speaker: "Kevin Leyton-Brown"
-      date: "Jun 2, 2026"
-      title: "Algorithm Synthesis with Theoretical Guarantees"
-      abstract: |
-        Despite massive progress on LLM-driven code synthesis, identifying algorithms that achieve excellent empirical performance requires extensive, extremely expensive empirical testing. Algorithm configuration methods are automated ways of performing such testing: optimizing the performance of parameterized heuristic algorithms on given distributions of problem instances. Such methods can be seen as efficient procedures for extending classical machine learning to hypothesis spaces consisting of algorithm designs. This talk will begin by defining the problem and illustrating its promise via some recent practical success stories. However, all widely used algorithm configuration methods both achieve poor asymptotic runtime performance in the worst case and optimize what I will argue is the wrong objective function. I will begin by explaining why we should leverage decision theory to maximize expected utility instead of minimizing average runtime. Then I will present a new algorithm configuration approach called Continuous, Online Utilitarian Procrastination (COUP), which optimizes this objective while offering strong theoretical guarantees. I will conclude by showing that these guarantees come effectively for free, as COUP achieves state-of-the-art empirical performance.
-      bio: |
-        Kevin Leyton-Brown is a professor of Computer Science and a Distinguished University Scholar at the University of British Columbia. He holds a Canada CIFAR AI Chair at the Alberta Machine Intelligence Institute and is an associate member of the Vancouver School of Economics. He received a PhD and an M.Sc. from Stanford University (2003; 2001) and a B.Sc. from McMaster University (1998). He studies artificial intelligence, mostly at the intersection of machine learning with either the design and operation of electronic markets or the design of heuristic algorithms. 
     - speaker: "Quanquan Liu"
       date: "Jun 16, 2026"
       title: "Judging Proofs and Evolving Programs: Expert Feedback for Reliable LLM Systems"
@@ -16,6 +9,13 @@
         Quanquan C. Liu is an Assistant Professor of Computer Science at Yale University. Her research spans algorithms for large-scale data, dynamic and parallel graph algorithms, high-performance computing, differential privacy, and resilient distributed computation. Recently, her work has also explored how large language models can be evaluated and improved in expert technical domains, including mathematical proof assessment through QEDBench and high-performance parallel code synthesis through ParEVO. She received her Ph.D., MEng, and B.S. from MIT.
 - type: "Previous Talks This Year"
   members:
+    - speaker: "Kevin Leyton-Brown"
+      date: "Jun 2, 2026"
+      title: "Algorithm Synthesis with Theoretical Guarantees"
+      abstract: |
+        Despite massive progress on LLM-driven code synthesis, identifying algorithms that achieve excellent empirical performance requires extensive, extremely expensive empirical testing. Algorithm configuration methods are automated ways of performing such testing: optimizing the performance of parameterized heuristic algorithms on given distributions of problem instances. Such methods can be seen as efficient procedures for extending classical machine learning to hypothesis spaces consisting of algorithm designs. This talk will begin by defining the problem and illustrating its promise via some recent practical success stories. However, all widely used algorithm configuration methods both achieve poor asymptotic runtime performance in the worst case and optimize what I will argue is the wrong objective function. I will begin by explaining why we should leverage decision theory to maximize expected utility instead of minimizing average runtime. Then I will present a new algorithm configuration approach called Continuous, Online Utilitarian Procrastination (COUP), which optimizes this objective while offering strong theoretical guarantees. I will conclude by showing that these guarantees come effectively for free, as COUP achieves state-of-the-art empirical performance.
+      bio: |
+        Kevin Leyton-Brown is a professor of Computer Science and a Distinguished University Scholar at the University of British Columbia. He holds a Canada CIFAR AI Chair at the Alberta Machine Intelligence Institute and is an associate member of the Vancouver School of Economics. He received a PhD and an M.Sc. from Stanford University (2003; 2001) and a B.Sc. from McMaster University (1998). He studies artificial intelligence, mostly at the intersection of machine learning with either the design and operation of electronic markets or the design of heuristic algorithms. 
     - speaker: "Ashesh Rambachan"
       date: "May 26, 2026"
       title: "From Next-Token Prediction to Automata Induction"
