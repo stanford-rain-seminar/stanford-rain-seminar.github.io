@@ -1,0 +1,63 @@
+<ol class="talk-list">
+  {% for talk in include.members %}
+  {% if talk.speaker %}
+  <li class="talk list-group-item">
+    <article>
+      <div class="talk-heading">
+        <div class="talk-heading-copy">
+          <h3 class="talk-presenter">{{ talk.speaker }}</h3>
+          {% if talk.affiliation %}
+          <div class="talk-affiliation">{{ talk.affiliation }}</div>
+          {% endif %}
+        </div>
+        {% if talk.date %}
+        <time class="talk-date" datetime="{{ talk.date | date: '%Y-%m-%d' }}">{{ talk.date }}</time>
+        {% endif %}
+      </div>
+
+      {% if talk.time or talk.location %}
+      <div class="talk-logistics">
+        {% if talk.time %}<span>{{ talk.time }}</span>{% endif %}
+        {% if talk.time and talk.location %}<span aria-hidden="true">·</span>{% endif %}
+        {% if talk.location %}<span>{{ talk.location }}</span>{% endif %}
+      </div>
+      {% endif %}
+
+      {% if talk.title %}
+      <div class="talk-title">
+        {% if talk.recording %}
+          <a class="talk-title-link" href="{{ talk.recording }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+        {% elsif talk.livestream %}
+          <a class="talk-title-link" href="{{ talk.livestream }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+        {% else %}
+          <span>{{ talk.title }}</span>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% if talk.abstract or talk.bio %}
+      <details>
+        <summary>Talk details</summary>
+        {% if talk.abstract %}
+        {{ talk.abstract }}
+        {% endif %}
+
+        {% if talk.bio %}
+        <br><br>
+        <strong>Bio: </strong> {{ talk.bio }}
+        {% endif %}
+
+        {% if talk.recording %}
+        <br><br>
+        <strong><a href="{{ talk.recording }}">Video link</a></strong>
+        {% elsif talk.livestream %}
+        <br><br>
+        <strong><a href="{{ talk.livestream }}">Livestream link</a></strong>
+        {% endif %}
+      </details>
+      {% endif %}
+    </article>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ol>
