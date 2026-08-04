@@ -22,12 +22,8 @@ Browse the [RAIN seminar talk archive](/archive/).
 
 ## About the Seminar
 
-**Seminar Organizers:** [Amin Saberi](https://web.stanford.edu/~saberi/), [Nikil Selvam](https://www.nikilrs.com/), [Xizhi Tan](https://xizhitan.github.io/), [Ellen Vitercik](https://vitercik.github.io/).
+**Seminar Organizer:** [Ellen Vitercik](https://vitercik.github.io/).
 
 **Faculty Involved:** [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ashish Goel](https://web.stanford.edu/~ashishg/), [Ramesh Johari](http://www.stanford.edu/~rjohari/), [Amin Saberi](https://web.stanford.edu/~saberi/), [Aaron Sidford](https://web.stanford.edu/~sidford/), [Johan Ugander](https://web.stanford.edu/~jugander/), [Irene Lo](https://sites.google.com/view/irene-lo), [Ellen Vitercik](https://vitercik.github.io/).
-
-
-**Note for Speakers:** The talk is 55 minutes including questions (as we often start a couple of minutes late). If you are giving a talk at RAIN, please plan a 45-50 minute talk since audience members usually ask a lot of questions. Also, the audience is fairly knowledgeable, so speakers should not feel obligated to provide basic game-theoretic, algorithmic, societal, industrial, probabilistic, or statistical background.
-
 
 Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu).
