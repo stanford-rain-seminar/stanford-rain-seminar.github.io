@@ -11,6 +11,10 @@ description: Stanford Research on Artificial Intelligence and Incentives Seminar
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/stanford_logo.png
 
+# Public seminar links
+mailing_list_url: https://mailman.stanford.edu/mailman/listinfo/internetalgs
+calendar_url: https://calendar.google.com/calendar/render?cid=703ghrmnu7ii3bbf2a9t1mda5s%40group.calendar.google.com
+
 #
 # Flags below are optional
 #
@@ -41,7 +45,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://stanford-rain-seminar.github.io
+url: https://rain.stanford.edu
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

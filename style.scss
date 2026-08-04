@@ -152,25 +152,34 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+
+  @include mobile {
+    margin-bottom: 30px;
+  }
 }
 
 .masthead {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
 
   @include mobile {
+    flex-direction: column;
+    gap: 10px;
     text-align: center;
   }
 }
 
 .site-avatar {
-  float: left;
+  flex: 0 0 auto;
   // width: 70px;
   height: 50px;
-  margin-right: 15px;
+  margin-right: 0;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -181,10 +190,9 @@ img {
 }
 
 .site-info {
-  float: left;
+  min-width: 0;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -196,8 +204,13 @@ img {
   cursor: pointer;
   font-family: $sourceSansPro;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 25px;
   letter-spacing: 1px;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
 .site-description {
@@ -211,29 +224,38 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin: 0 0 0 auto;
   font-family: $sourceSansPro;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
+    justify-content: center;
+    margin: 0;
     font-size: 16px;
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 0;
     color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    text-align: left;
+    font-weight: 600;
+    letter-spacing: .2px;
+    text-decoration: none;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+      color: $darkGray;
     }
+  }
+
+  a:hover,
+  a:active,
+  a[aria-current="page"] {
+    color: $stanfordred;
+    text-decoration: underline;
+    text-underline-offset: .2em;
   }
 }
 
@@ -284,14 +306,55 @@ footer {
 }
 
 // Talks
+.talk-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.talk-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+
+  @include mobile {
+    flex-direction: column;
+    gap: 4px;
+  }
+}
+
+.talk-heading-copy {
+  min-width: 0;
+}
+
 .talk-date {
-  float: right;
-  font-size: 1.1rem;
+  flex: 0 0 auto;
+  font-size: 1rem;
 }
 
 .talk-presenter {
+  margin: 0;
   font-weight: 700;
   font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.talk-affiliation {
+  color: $gray;
+  font-size: .95rem;
+}
+
+.talk-logistics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 6px;
+  margin-top: 7px;
+  color: $darkGray;
+  font-size: .95rem;
+}
+
+.talk-title {
+  margin-top: 7px;
 }
 
 .talk-title-link {
@@ -328,6 +391,31 @@ details > summary {
   cursor: pointer;
   color: $stanfordred;
   list-style: none;
+  margin-top: 7px;
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+#main a {
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+a:focus-visible,
+summary:focus-visible {
+  outline: 3px solid $darkGray;
+  outline-offset: 3px;
+}
+
+.calendar-section {
+  margin-top: 35px;
+}
+
+.seminar-calendar {
+  display: block;
+  width: 100%;
+  height: 300px;
+  border: 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
