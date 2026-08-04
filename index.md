@@ -22,7 +22,7 @@ Browse the [RAIN seminar talk archive](/archive/).
 
 ## About the Seminar
 
-**Seminar Organizer:** [Ellen Vitercik](https://vitercik.github.io/).
+**Seminar Organizers:** [Amin Saberi](https://web.stanford.edu/~saberi/) and [Ellen Vitercik](https://vitercik.github.io/).
 
 **Faculty Involved:** [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ashish Goel](https://web.stanford.edu/~ashishg/), [Ramesh Johari](http://www.stanford.edu/~rjohari/), [Amin Saberi](https://web.stanford.edu/~saberi/), [Aaron Sidford](https://web.stanford.edu/~sidford/), [Johan Ugander](https://web.stanford.edu/~jugander/), [Irene Lo](https://sites.google.com/view/irene-lo), [Ellen Vitercik](https://vitercik.github.io/).
 
