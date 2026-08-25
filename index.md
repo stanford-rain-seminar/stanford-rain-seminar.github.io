@@ -5,11 +5,9 @@ meta-description: "The RAIN (Research on Artificial Intelligence and Incentives)
 
 # Stanford RAIN Seminar
 
-Stanford RAIN (**R**esearch on **A**rtificial Intelligence and **IN**centives) is a seminar on the theory and practice of AI in strategic and societal settings. Supported by Stanford’s Society & Algorithms Lab ([SOAL](https://web.stanford.edu/group/soal/)), [Stanford OpenLab](https://openlab.stanford.edu/), the [Stanford Center for Computational Market Design](https://marketdesign.stanford.edu/), and the [Stanford Computer Forum](https://forum.stanford.edu/), it serves as a hub for talks and discussion at the intersection of AI, incentives, and society.
-
+Stanford RAIN (**R**esearch on **A**rtificial Intelligence and **IN**centives) is a seminar on the theory and practice of AI in strategic and societal settings. It serves as a hub for talks and discussion at the intersection of AI, incentives, and society. It is supported by Stanford’s Society & Algorithms Lab ([SOAL](https://web.stanford.edu/group/soal/)), [Stanford OpenLab](https://openlab.stanford.edu/), the [Stanford Center for Computational Market Design](https://marketdesign.stanford.edu/), and the [Stanford Computer Forum](https://forum.stanford.edu/) (and is open to Stanford Computer Forum affiliates).
 
 * Autumn 2026 talks are held in person on Tuesdays from 4:30–5:30 PM PT; room assignments are listed below.
-* The seminar is open to Stanford Computer Forum affiliates.
 * [Join the RAIN mailing list]({{ site.mailing_list_url }}) to receive announcements and reminders.
 
 {% for category in site.data.talks %}
