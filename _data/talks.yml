@@ -6,6 +6,11 @@
       affiliation: "Stanford University"
       time: "4:30–5:30 PM PT"
       location: "Y2E2 299"
+      title: "Recent Results on Contest Theory and its Modern Implications"
+      abstract: |
+        The theory of contest design, introduced nearly half a century ago, has been a central problem in economics, computer science, and operations research, with numerous applications including research contests, sports tournaments, crowdsourcing, and a wide range of managerial scenarios. However, classic results often impose crucial restrictions on the objective function, such as convexity, which severely restricts their applicability beyond simplistic scenarios. This talk will introduce recent results in the theory of contest design that significantly generalize prior work and provide a unified structural and algorithmic framework, motivated by modern online platforms and recommender systems. Then I will discuss their potential implications in the modern agentic economy and large language models.
+      bio: |
+        Suho Shin is a joint postdoctoral scholar at Stanford (Motwani Postdoctoral Fellow) and MIT, hosted by Prof. Amin Saberi and Prof. Negin Golrezaei. He received his Ph.D. in Computer Science from the University of Maryland advised by Prof. MohammadTaghi Hajiaghayi, and B.S. and M.S. in Mathematics and Electrical Engineering from KAIST. His research lies at the intersection of mechanism design, principal-agent problems, and the modern digital/agentic economy. His recent works focused on designing robust delegation protocols that efficiently align incentives for both human and AI agents.
     - talk_id: "RAIN-2026-10-06-WHITEHOUSE"
       speaker: "Justin Whitehouse"
       date: "Oct 6, 2026"
