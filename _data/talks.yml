@@ -17,6 +17,15 @@
       affiliation: "Stanford University"
       time: "4:30–5:30 PM PT"
       location: "Y2E2 299"
+      title: "Measuring Gift Card Program Incrementality via Causal Data Fusion"
+      abstract: |
+        Businesses regularly offer gift card programs to drive customer spending and increase engagement. A central question is how much incremental revenue these programs generate, and which distribution channels drive it most efficiently. Measuring the incremental revenue associated with a gift card program is a challenging problem in causal inference, requiring a firm to infer how much each customer would have spent if they never received a gift card. Observational data on past customer purchasing behavior reveal possession of a gift card only when a customer makes a purchase, thus leaving a customer’s treatment status systematically censored.
+
+        In this talk, we develop a novel data fusion approach to overcome this missing data challenge. We identify and estimate incrementality by combining a large observational dataset with a smaller experimental dataset from a different population. Our approach relies on a mild transferability condition, which posits that the conditional relative treatment effect of gift card receipt on the decision to purchase is invariant across the two populations. We develop a flexible, machine learning-based estimator for the incremental revenue and establish its asymptotic normality.
+
+        We apply our estimator across both first- and third-party channels through which Airbnb distributes gift cards, finding heterogeneity in incrementality across segments of the population. In particular, we find not only that third-party channels are more incremental than first-party ones but also that “self-gifters” (i.e., customers likely to have purchased their own gift cards) are more incremental than the broader population.
+      bio: |
+        Justin Whitehouse is a SAIL Postdoctoral Fellow at Stanford University, where he works with Vasilis Syrgkanis, Ramesh Johari, and Emma Brunskill. His research lies at the intersection of causal inference, machine learning, and statistics, with a particular focus on developing methods for optimal and personalized decision-making. His work spans statistical theory and application, often motivated by decision-making problems that arise in industry. Prior to Stanford, Justin received his PhD in Computer Science from Carnegie Mellon University, where he was advised by Aaditya Ramdas and Steven Wu. His doctoral research focused on anytime-valid statistical inference, with applications across machine learning and causal inference.
     - talk_id: "RAIN-2026-10-13-DONTI"
       speaker: "Priya Donti"
       date: "Oct 13, 2026"
