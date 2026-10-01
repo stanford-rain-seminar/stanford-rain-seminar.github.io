@@ -1,6 +1,6 @@
-# RAIN Seminar Website
+# RAIN/OR Seminar Website
 
-Website for the RAIN seminar series. Originally forked from [jekyll-now](https://github.com/barryclark/jekyll-now) and Stanford SysML Seminar.
+Website for the RAIN/OR seminar series: Recent advances in AI, Incentives, and Operations Research. Originally forked from [jekyll-now](https://github.com/barryclark/jekyll-now) and Stanford SysML Seminar.
 
 Feel free to clone this template, but please include a shoutout to the MLSys
 Seminars website (uncomment the part at the bottom of `index.md`)!
