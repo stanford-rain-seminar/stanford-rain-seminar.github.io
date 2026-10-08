@@ -32,6 +32,11 @@
       affiliation: "MIT"
       time: "4:30–5:30 PM PT"
       location: "Y2E2 101"
+      title: "Safe, Robust, and Generalizable Machine Learning for Power Systems"
+      abstract: |
+        Power grids must be managed at greater speed, scale, and physical fidelity to enable decarbonization and improve resilience. Methods from machine learning (ML) have the potential to play an important role by providing fast, scalable approximations for foundational power system optimization problems, but often struggle to enforce hard physical constraints, maintain robustness in the face of unexpected inputs, or generalize across different grids. To address the issue of physical constraints, we present three different approaches — optimization-in-the-loop ML, learned approximate projection, and a safe exploration approach for reinforcement learning — that represent different tradeoffs in terms of runtime and provable guarantees. To foster robustness and generalization, we present two ML benchmarks: (a) PF∆, focused on fast approximations to power grid simulation problems that can generalize across topologies and cope with near-infeasible instances, and (b) RL2Grid, focused on reinforcement learning for the combinatorial problem of topology optimization.
+      bio: |
+        Priya Donti is an Assistant Professor and the Silverman (1968) Family Career Development Professor at MIT EECS and LIDS. Her research focuses on safe and robust machine learning for high-renewables power grids. Priya is also a co-founder and Chair of Climate Change AI, a global nonprofit initiative to catalyze impactful work at the intersection of climate change and machine learning. Priya received her Ph.D. in Computer Science and Public Policy from Carnegie Mellon University. She was recognized as part of the MIT Technology Review’s 2021 list of 35 Innovators Under 35, Vox’s 2023 Future Perfect 50, and the 2025 TIME100 AI list, and is a recipient of the Schmidt Sciences AI2050 Early Career Fellowship, the ACM SIGEnergy Doctoral Dissertation Award, the Siebel Scholarship, the U.S. Department of Energy Computational Science Graduate Fellowship, and best paper honorable mentions at ICML and ACM e-Energy.
     - talk_id: "RAIN-2026-10-20-TAN"
       speaker: "Xizhi Tan"
       date: "Oct 20, 2026"
@@ -68,3 +73,9 @@
       affiliation: "Cornell University"
       time: "4:30–5:30 PM PT"
       location: "Y2E2 299"
+    - talk_id: "RAIN-2027-02-09-FLANIGAN"
+      speaker: "Bailey Flanigan"
+      date: "Feb 9, 2027"
+      affiliation: "MIT"
+      time: "4:30–5:30 PM PT"
+      location: "Y2E2 101"
