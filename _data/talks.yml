@@ -17,6 +17,9 @@
       affiliation: "University of California, Berkeley"
       time: "4:30–5:30 PM PT"
       location: "Y2E2 299"
+      title: "Inference Auctions"
+      abstract: |
+        When inference demand exceeds available compute capacity, model providers must decide which requests should be served first. Users have different tolerances for delay from an LLM API, but current priority pricing schemes compress these differences into coarse fixed-price service tiers. We design an inference auction that allows users to bid for faster service. Our auction allocates priority in an economically efficient way without sacrificing latency, and we develop fast algorithms for implementing prices that incentivize truthful bidding. We also design an autobidding agent for our inference auction, where users specify an inference budget and the autobidder dynamically adjusts its bids over time to maximize user utility subject to the budget constraint. Experiments validate the practicality of our auction: it increases system welfare while maintaining the cache utilization and latency advantages of SGLang, a state-of-the-art inference serving framework.
     - talk_id: "RAIN-2026-12-01-MURPHY"
       speaker: "Susan Murphy"
       date: "Dec 1, 2026"
